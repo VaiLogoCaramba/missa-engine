@@ -230,7 +230,7 @@ class MainMenuState extends MusicBeatState
 
 		//esta es la mejor parte porque aqui termina el sufrimiento
 		if (FlxG.mouse.overlaps(disco)) {
-			FlxTween.tween(disco, {x: 900}, 0.2);
+			FlxTween.tween(disco, {x: 1000}, 0.2);
 			}
 		else {
 			FlxTween.tween(disco, {x: 1200}, 0.2);
