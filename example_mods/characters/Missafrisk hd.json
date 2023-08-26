@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				-4
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Friskmissa 2 Idle"
+		},
+		{
+			"offsets": [
+				25,
+				-4
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Friskmissa 2 down"
+		},
+		{
+			"offsets": [
+				5,
+				-4
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Friskmissa 2 left"
+		},
+		{
+			"offsets": [
+				25,
+				-4
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Friskmissa 2 up"
+		},
+		{
+			"offsets": [
+				25,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Friskmissa 2 rigth"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Friskmissa 2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "no",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		900,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

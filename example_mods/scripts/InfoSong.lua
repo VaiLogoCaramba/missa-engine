@@ -1,8 +1,8 @@
 musico = 'artist'
 el3tricksong = {'Goodfun', 'Nightmare'}
 fadesong = {'Lyrics', 'Rocktime'}
-missasong = {'Aqui_estoy', 'cuarentena', 'cancion_china', 'oaxaca', 'otomatone', 'Determinacion', 'ignt', 'missa_langosta', 'Pokemon_go', 'rap_kirby'}
-dontplay = {'march', 'true-trolling'}
+missasong = {'Aqui_estoy', 'cuarentena', 'cancion_china', 'oaxaca', 'otomatone', 'Determinacion', 'Cancion_al_mar', 'Rap_mario_3', 'rap_kirby'}
+dontplay = {'march', 'true-trolling','beepy_style'}
 
 function onCreatePost()
     if songName ~= nil then

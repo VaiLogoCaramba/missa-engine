@@ -1,7 +1,7 @@
 {
 	"storyName": "album de missa",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "cuadros",
 	"weekBefore": "week2",
 	"freeplayColor": [
@@ -22,7 +22,7 @@
 			]
 		],
 		[
-			"ignt",
+			"cancion-al-mar",
 			"missaignt",
 			[
 				146,
@@ -40,7 +40,7 @@
 			]
 		],
 		[
-			"pokemon_go",
+			"mario_3",
 			"missapoke",
 			[
 				146,

@@ -1,0 +1,456 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change The Stage",
+						"Inicio 1",
+						""
+					]
+				]
+			],
+			[
+				17952.1276595745,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Flowey"
+					],
+					[
+						"Change The Stage",
+						"Negro",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1 "
+					]
+				]
+			],
+			[
+				20425.5319148936,
+				[
+					[
+						"Flash",
+						"1",
+						"1 "
+					],
+					[
+						"Change Character",
+						"BF",
+						"Missafrisk"
+					],
+					[
+						"Change The Stage",
+						"Inicio 1",
+						""
+					]
+				]
+			],
+			[
+				40132.9787234043,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Flowey"
+					],
+					[
+						"Change The Stage",
+						"Negro",
+						""
+					]
+				]
+			],
+			[
+				50904.255319149,
+				[
+					[
+						"Flash",
+						"1",
+						"0"
+					],
+					[
+						"Change Character",
+						"BF ",
+						"Missafrisk"
+					],
+					[
+						"Change The Stage",
+						"Ruinas",
+						""
+					]
+				]
+			],
+			[
+				70930.8510638298,
+				[
+					[
+						"Change The Stage",
+						"home",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Missafriskmissing"
+					]
+				]
+			],
+			[
+				80984.0425531915,
+				[
+					[
+						"Change The Stage",
+						"snow",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				91196.8085106382,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Missafrisk"
+					],
+					[
+						"Change The Stage",
+						"Papyruscasa",
+						""
+					]
+				]
+			],
+			[
+				91276.5957446808,
+				[
+					[
+						"Change The Stage",
+						"Papyrus",
+						""
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Change The Stage",
+						"cascadasalv",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				121515.957446808,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Missafrisk hd"
+					],
+					[
+						"Change The Stage",
+						"Inicio 2",
+						""
+					]
+				]
+			],
+			[
+				131728.723404255,
+				[
+					[
+						"Change The Stage",
+						"Ruinashd",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				141861.702127659,
+				[
+					[
+						"Change The Stage",
+						"Snowdinhd",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1 "
+					]
+				]
+			],
+			[
+				151994.680851064,
+				[
+					[
+						"Change The Stage",
+						"aguahd",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				161569.14893617,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"water",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"Missafriskmissing"
+					]
+				]
+			],
+			[
+				171941.489361702,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"Hotcomotumama",
+						""
+					]
+				]
+			],
+			[
+				181994.680851063,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"Negro",
+						""
+					]
+				]
+			],
+			[
+				184468.085106383,
+				[
+					[
+						"Change The Stage",
+						"Inicio 2",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Missafrisk hd"
+					]
+				]
+			],
+			[
+				194680.851063829,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"Ruinashd",
+						""
+					]
+				]
+			],
+			[
+				204734.042553191,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"Snowdinhd",
+						""
+					]
+				]
+			],
+			[
+				214867.021276595,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"aguahd",
+						""
+					]
+				]
+			],
+			[
+				222446.808510638,
+				[
+					[
+						"Change The Stage",
+						"Snowdinhd",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				222726.063829787,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				223045.212765957,
+				[
+					[
+						"Change The Stage",
+						"Ruinashd",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				223324.468085106,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				223563.829787233,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change The Stage",
+						"Inicio 2",
+						""
+					]
+				]
+			],
+			[
+				224960.106382978,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Missachara"
+					]
+				]
+			],
+			[
+				234893.617021276,
+				[
+					[
+						"Change The Stage",
+						"Negro",
+						""
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Fade UI",
+						"1",
+						"0.3"
+					]
+				]
+			]
+		]
+	}
+}

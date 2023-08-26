@@ -3,12 +3,34 @@
 		{
 			"loop": true,
 			"offsets": [
-				40,
-				-579
+				43,
+				-578
 			],
 			"anim": "idle",
 			"fps": 24,
 			"name": "KirbyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-540
+			],
+			"anim": "morir",
+			"fps": 24,
+			"name": "KirbyTeQuieresMorir",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-585
+			],
+			"anim": "doctorado",
+			"fps": 24,
+			"name": "KirbyConDoctorado",
 			"indices": []
 		},
 		{
@@ -19,85 +41,107 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "KirbyLEFT",
+			"name": "KirbyLEFT NOTE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				30,
+				34,
 				-586
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "KirbyRIGHT",
+			"name": "KirbyRIGHT NOTE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				38,
-				-587
+				47,
+				-586
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "KirbyDOWN",
+			"name": "KirbyDOWN NOTE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				43,
-				-567
+				44,
+				-564
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "KirbyUP",
+			"name": "KirbyUP NOTE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				28,
-				-518
+				-484
 			],
-			"anim": "morir",
-			"fps": 24,
-			"name": "KirbyTeQuieresMorir",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				25,
-				-585
-			],
-			"anim": "doctorado",
-			"fps": 24,
-			"name": "KirbyConDoctorado",
-			"indices": []
-		},
-		{
-			"offsets": [
-				428,
-				45
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "comer",
-			"indices": [],
-			"name": "Kirby Torta"
+			"fps": 24,
+			"name": "KirbyPastel",
+			"indices": []
 		},
 		{
 			"offsets": [
-				487,
-				6
+				49,
+				-586
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "mk",
+			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "Kirby Meta Knight"
+			"name": "KirbyLEFT MISS"
+		},
+		{
+			"offsets": [
+				36,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "KirbyRIGHT MISS"
+		},
+		{
+			"offsets": [
+				50,
+				-587
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "KirbyDOWN MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-565
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "KirbyUP MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				399,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Anim",
+			"indices": [],
+			"name": "KirbyAnim"
 		}
 	],
 	"no_antialiasing": false,
@@ -107,15 +151,15 @@
 		-10
 	],
 	"healthicon": "kirby",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		255,
 		160,
 		200
 	],
 	"camera_position": [
-		-490,
-		220
+		250,
+		380
 	],
 	"sing_duration": 4,
 	"scale": 1

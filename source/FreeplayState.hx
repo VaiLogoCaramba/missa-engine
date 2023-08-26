@@ -245,37 +245,37 @@ class FreeplayState extends MusicBeatState
 		add(arcade);
 
 		//titulos de los juegos porno
-		lyricsText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Lyrics'));
+		lyricsText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Lyrics'));
 		lyricsText.antialiasing = ClientPrefs.globalAntialiasing;
 		lyricsText.visible = false;
 		add(lyricsText);
 
-		beepy_styleText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/beepy-style'));
+		beepy_styleText = new FlxSprite(650, 250).loadGraphic(Paths.image('freeplay/freeplayText/beepy-style'));
 		beepy_styleText.antialiasing = ClientPrefs.globalAntialiasing;
 		beepy_styleText.visible = false;
 		add(beepy_styleText);
 
-		rocktimeText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/rocktime'));
+		rocktimeText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/rocktime'));
 		rocktimeText.antialiasing = ClientPrefs.globalAntialiasing;
 		rocktimeText.visible = false;
 		add(rocktimeText);
 		
-		billyText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Billy'));
+		billyText = new FlxSprite(650, 250).loadGraphic(Paths.image('freeplay/freeplayText/Billy'));
 		billyText.antialiasing = ClientPrefs.globalAntialiasing;
 		billyText.visible = false;
 		add(billyText);
 
-		pizzaText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Pizza'));
+		pizzaText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Pizza'));
 		pizzaText.antialiasing = ClientPrefs.globalAntialiasing;
 		pizzaText.visible = false;
 		add(pizzaText);
 		
-		goodfunText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Goodfun'));
+		goodfunText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Goodfun'));
 		goodfunText.antialiasing = ClientPrefs.globalAntialiasing;
 		goodfunText.visible = false;
 		add(goodfunText);
 				
-		wizardText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Wizard'));
+		wizardText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Wizard'));
 		wizardText.antialiasing = ClientPrefs.globalAntialiasing;
 		wizardText.visible = false;
 		add(wizardText);
@@ -310,12 +310,12 @@ class FreeplayState extends MusicBeatState
 		otomatone_Vs_StylophoneText.visible = false;
 		add(otomatone_Vs_StylophoneText);
 								
-		grape_sodaText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Grape-soda'));
+		grape_sodaText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/Grape-soda'));
 		grape_sodaText.antialiasing = ClientPrefs.globalAntialiasing;
 		grape_sodaText.visible = false;
 		add(grape_sodaText);
 
-		nightmare = new FlxSprite(850, 350);
+		nightmare = new FlxSprite(850, 300);
 		nightmare.antialiasing = ClientPrefs.globalAntialiasing;
 		nightmare.frames = Paths.getSparrowAtlas('freeplay/freeplayText/Nightmare');
 		nightmare.antialiasing = ClientPrefs.globalAntialiasing;

@@ -17,27 +17,27 @@ function onUpdate(elapsed)
  
     currentBeat = (songPos / 450) * (bpm / 100) --this is basically speed, idk how to adjust it
 
-    if curStep >= 75 and curStep < 233 then
+    if curStep >= 63 and curStep < 191 then
         for i = 0,7 do --the amount of notes like 0,7 is all, 0.3 is all opponent and 4,7 is all player. to do single just 0,0
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1] + move * math.sin((currentBeat + i*2) * math.pi))
                                                                                     -- ^  these can be numbers itself dw
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + move * math.cos((currentBeat + i*0.3) * math.pi))
         end                                                          --this number is to determine how the arrows move ^
     end                                                              --odd numbers (ex. 1, 3) are for zig zag and even numbers (ex. 2, 4) are for the whole thing, 0.3 and under is waving
-    if curStep == 233 then --this is to revert back to original position
+    if curStep == 191 then --this is to revert back to original position
         for i = 0,7 do 
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1])
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2])
         end
     end
-        if curStep >= 882 and curStep < 1039 then
+        if curStep >= 719 and curStep < 847 then
         for i = 0,7 do --the amount of notes like 0,7 is all, 0.3 is all opponent and 4,7 is all player. to do single just 0,0
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1] + move * math.sin((currentBeat + i*2) * math.pi))
                                                                                     -- ^  these can be numbers itself dw
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + move * math.cos((currentBeat + i*0.3) * math.pi))
         end                                                          --this number is to determine how the arrows move ^
     end                                                              --odd numbers (ex. 1, 3) are for zig zag and even numbers (ex. 2, 4) are for the whole thing, 0.3 and under is waving
-    if curStep == 1039 then --this is to revert back to original position
+    if curStep == 847 then --this is to revert back to original position
         for i = 0,7 do 
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1])
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2])

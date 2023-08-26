@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlbumDisco.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="disco instance 10000" x="5" y="5" width="331" height="345"/>
+	<SubTexture name="disco instance 10001" x="5" y="5" width="331" height="345"/>
+	<SubTexture name="disco instance 10002" x="5" y="355" width="331" height="345"/>
+	<SubTexture name="disco instance 10003" x="5" y="355" width="331" height="345"/>
+</TextureAtlas>

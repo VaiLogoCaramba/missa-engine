@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Friskmissa 2.png">
+<SubTexture name="Friskmissa 2 Idle0000" x="0" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 Idle0001" x="68" y="0" width="23" height="29" frameX="-75" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 Idle0002" x="0" y="60" width="24" height="29" frameX="-75" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 Idle0003" x="0" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 Idle0004" x="0" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 Idle0005" x="0" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 rigth0000" x="68" y="29" width="23" height="29" frameX="-76" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 rigth0001" x="24" y="60" width="23" height="29" frameX="-77" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 rigth0002" x="47" y="60" width="23" height="29" frameX="-77" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 rigth0003" x="24" y="60" width="23" height="29" frameX="-77" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 up0000" x="23" y="0" width="22" height="30" frameX="-76" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 up0001" x="45" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 up0002" x="0" y="30" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 up0003" x="45" y="0" width="23" height="30" frameX="-75" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 left0000" x="91" y="0" width="26" height="29" frameX="-72" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 left0001" x="117" y="0" width="29" height="29" frameX="-69" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 left0002" x="23" y="30" width="29" height="30" frameX="-69" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 left0003" x="117" y="0" width="29" height="29" frameX="-69" frameY="-66" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 down0000" x="91" y="29" width="22" height="27" frameX="-76" frameY="-68" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 down0001" x="117" y="29" width="22" height="28" frameX="-76" frameY="-67" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 down0002" x="117" y="57" width="23" height="28" frameX="-75" frameY="-67" frameWidth="190" frameHeight="152" />
+<SubTexture name="Friskmissa 2 down0003" x="117" y="29" width="22" height="28" frameX="-76" frameY="-67" frameWidth="190" frameHeight="152" />
+</TextureAtlas>
