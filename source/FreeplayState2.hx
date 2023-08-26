@@ -150,7 +150,7 @@ class FreeplayState2 extends MusicBeatState
 		aqui_estoyText.screenCenter(X);
 		add(aqui_estoyText);
 								
-		igntText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Cacionmar'));
+		igntText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Cancionmar'));
 		igntText.antialiasing = ClientPrefs.globalAntialiasing;
 		igntText.visible = false;
 		igntText.screenCenter(X);
