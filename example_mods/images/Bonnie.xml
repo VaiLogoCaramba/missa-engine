@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bonnie.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bonnie0000" x="0" y="0" width="648" height="680" frameX="0" frameY="0" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0001" x="678" y="0" width="646" height="678" frameX="-1" frameY="-2" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0002" x="1354" y="0" width="644" height="673" frameX="-2" frameY="-7" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0003" x="0" y="710" width="639" height="666" frameX="-3" frameY="-15" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0004" x="669" y="710" width="632" height="654" frameX="-6" frameY="-27" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0005" x="1331" y="710" width="632" height="643" frameX="-8" frameY="-38" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0006" x="0" y="1406" width="630" height="635" frameX="-10" frameY="-47" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0007" x="660" y="1406" width="629" height="631" frameX="-11" frameY="-51" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0008" x="1319" y="1406" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0009" x="1319" y="1406" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0010" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0011" x="1319" y="1406" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0012" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0013" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0014" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0015" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0016" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0017" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+	<SubTexture name="Bonnie0018" x="0" y="2071" width="629" height="629" frameX="-11" frameY="-53" frameWidth="648" frameHeight="682"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fondo0000" x="20" y="20" width="1420" height="884"/>
+	<SubTexture name="Fondo0001" x="1465" y="20" width="1420" height="884"/>
+	<SubTexture name="Fondo0002" x="2910" y="20" width="1420" height="884"/>
+	<SubTexture name="Fondo0003" x="4355" y="20" width="1420" height="884"/>
+	<SubTexture name="Fondo0004" x="5800" y="20" width="1420" height="884"/>
+	<SubTexture name="Fondo0005" x="20" y="929" width="1420" height="884"/>
+	<SubTexture name="Fondo0006" x="1465" y="929" width="1420" height="884"/>
+	<SubTexture name="Fondo0007" x="2910" y="929" width="1420" height="884"/>
+	<SubTexture name="Fondo0008" x="4355" y="929" width="1420" height="884"/>
+	<SubTexture name="Fondo0009" x="5800" y="929" width="1420" height="884"/>
+	<SubTexture name="Fondo0010" x="20" y="1838" width="1420" height="884"/>
+	<SubTexture name="Fondo0011" x="1465" y="1838" width="1420" height="884"/>
+	<SubTexture name="Fondo0012" x="2910" y="1838" width="1420" height="884"/>
+	<SubTexture name="Fondo0013" x="4355" y="1838" width="1420" height="884"/>
+	<SubTexture name="Fondo0014" x="5800" y="1838" width="1420" height="884"/>
+	<SubTexture name="Fondo0015" x="20" y="2747" width="1420" height="884"/>
+	<SubTexture name="Fondo0016" x="1465" y="2747" width="1420" height="884"/>
+	<SubTexture name="Fondo0017" x="2910" y="2747" width="1420" height="884"/>
+	<SubTexture name="Fondo0018" x="4355" y="2747" width="1420" height="884"/>
+	<SubTexture name="Fondo0019" x="5800" y="2747" width="1420" height="884"/>
+	<SubTexture name="Fondo0020" x="20" y="3656" width="1420" height="884"/>
+	<SubTexture name="Fondo0021" x="1465" y="3656" width="1420" height="884"/>
+	<SubTexture name="Fondo0022" x="2910" y="3656" width="1420" height="884"/>
+	<SubTexture name="Fondo0023" x="4355" y="3656" width="1420" height="884"/>
+	<SubTexture name="Fondo0024" x="5800" y="3656" width="1420" height="884"/>
+	<SubTexture name="Fondo0025" x="20" y="4565" width="1420" height="884"/>
+	<SubTexture name="Fondo0026" x="1465" y="4565" width="1420" height="884"/>
+	<SubTexture name="Fondo0027" x="2910" y="4565" width="1420" height="884"/>
+	<SubTexture name="Fondo0028" x="4355" y="4565" width="1420" height="884"/>
+	<SubTexture name="Fondo0029" x="5800" y="4565" width="1420" height="884"/>
+</TextureAtlas>

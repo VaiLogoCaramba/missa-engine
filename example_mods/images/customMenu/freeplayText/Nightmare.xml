@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nightmare.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nightmare0000" x="20" y="20" width="227" height="127"/>
+	<SubTexture name="Nightmare0001" x="20" y="172" width="227" height="127"/>
+	<SubTexture name="Nightmare0002" x="20" y="324" width="227" height="127"/>
+	<SubTexture name="Nightmare0003" x="20" y="476" width="227" height="127"/>
+	<SubTexture name="Nightmare0004" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0005" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0006" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0007" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0008" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0009" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0010" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0011" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0012" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0013" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0014" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0015" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0016" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0017" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0018" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0019" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0020" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0021" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0022" x="20" y="628" width="227" height="127"/>
+	<SubTexture name="Nightmare0023" x="20" y="628" width="227" height="127"/>
+</TextureAtlas>

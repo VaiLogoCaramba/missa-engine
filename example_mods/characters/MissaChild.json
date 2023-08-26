@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-361
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MissaCHILDabajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MissaCHILDarriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				-244
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MissaCHILDderecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-301
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MissaCHILDizquierda",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MissaCHILDIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissaCHILD",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-150,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

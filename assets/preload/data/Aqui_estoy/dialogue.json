@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "char",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "hola! charmipotato al habla"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "char",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "antes que nada, gracias por jugar el mod de missasinfonia"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "char",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "esta semana en especial son canciones de missa adaptadas a fnf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "char",
+			"boxState": "normal",
+			"expression": "nervioso",
+			"text": "aunque algunas tienen copyright, asi que se recomienda discrecion"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "salva",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "estan advertidos, despues no es mambo nuestro si les salta una reclamacion"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "char",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "asi que, que empiece la week ALBUM!"
+		}
+	]
+}

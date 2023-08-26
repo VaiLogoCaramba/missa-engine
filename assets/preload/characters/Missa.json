@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				64,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MissaPensandoLEFT"
+		},
+		{
+			"offsets": [
+				45,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MissaPensandoRIGHT"
+		},
+		{
+			"offsets": [
+				9,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MissaPensandoDOWN"
+		},
+		{
+			"offsets": [
+				45,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MissaPensandoUP"
+		},
+		{
+			"offsets": [
+				-5,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "que 1",
+			"indices": [],
+			"name": "MissaPensandoQue1"
+		},
+		{
+			"offsets": [
+				-2,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "habla bien",
+			"indices": [],
+			"name": "MissaPensandoHABLABIEN"
+		},
+		{
+			"offsets": [
+				12,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ya sabia",
+			"indices": [],
+			"name": "MissaPensandoYaLoSabia"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MissaPensandoIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missasinfonia",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

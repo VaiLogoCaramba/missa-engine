@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "confiused",
+			"text": "Oye.",
+			"boxState": "normal",
+			"portrait": "otomatone",
+			"speed": 0.1,
+			"sound": "Oto"
+		},
+		{
+			"expression": "talk",
+			"text": "Que?",
+			"boxState": "normal",
+			"portrait": "stylophone",
+			"speed": 0.05,
+			"sound": "Sty"
+		},
+		{
+			"expression": "angry",
+			"text": "Missa ya tiene un instrumento favorito, entendiste?",
+			"boxState": "normal",
+			"portrait": "otomatone",
+			"speed": 0.05,
+			"sound": "Oto"
+		},
+		{
+			"expression": "talk",
+			"text": "Si, y dijo que soy yo.",
+			"boxState": "normal",
+			"portrait": "stylophone",
+			"speed": 0.05,
+			"sound": "Sty"
+		},
+		{
+			"expression": "angry",
+			"text": "NO NO NO",
+			"boxState": "angry",
+			"portrait": "otomatone",
+			"speed": 0.05,
+			"sound": "Oto"
+		},
+		{
+			"expression": "talk",
+			"text": "YO soy su instrumento favorito, idiota!",
+			"boxState": "angry",
+			"portrait": "otomatone",
+			"speed": 0.05,
+			"sound": "Oto"
+		},
+		{
+			"expression": "confiused",
+			"text": "Pues, parece que te reemplazo.",
+			"boxState": "normal",
+			"portrait": "stylophone",
+			"speed": 0.05,
+			"sound": "Sty"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "stylophone",
+			"speed": 0.05,
+			"sound": "Sty"
+		},
+		{
+			"expression": "talk",
+			"text": "Puto.",
+			"boxState": "normal",
+			"portrait": "stylophone",
+			"speed": 0.05,
+			"sound": "Sty"
+		},
+		{
+			"expression": "talk",
+			"text": "Ya veremos, Inutil.",
+			"boxState": "normal",
+			"portrait": "otomatone",
+			"speed": 0.05,
+			"sound": "Oto"
+		}
+	]
+}

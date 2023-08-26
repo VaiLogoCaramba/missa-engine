@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="100" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0001" x="609" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0002" x="609" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0003" x="1118" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0004" x="1118" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0005" x="1627" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0006" x="1627" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0007" x="2136" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0008" x="2136" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0009" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0010" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0011" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0012" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0013" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0014" x="3154" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0015" x="3154" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0016" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0017" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0018" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Cheer0019" x="2645" y="100" width="409" height="524"/>
+	<SubTexture name="GF Dancing Beat0000" x="100" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0001" x="100" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0002" x="577" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0003" x="1054" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0004" x="1531" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0005" x="2008" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0006" x="2485" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0007" x="2962" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0008" x="3439" y="724" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0009" x="100" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0010" x="577" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0011" x="1054" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0012" x="1531" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0013" x="2008" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0014" x="2485" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0015" x="2962" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0016" x="3439" y="1349" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0017" x="100" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0018" x="577" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0019" x="1054" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0020" x="1531" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0021" x="2008" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0022" x="2485" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0023" x="2962" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0024" x="2962" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0025" x="3439" y="1974" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0026" x="100" y="2599" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0027" x="577" y="2599" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0028" x="1054" y="2599" width="377" height="525"/>
+	<SubTexture name="GF Dancing Beat0029" x="1531" y="2599" width="377" height="525"/>
+	<SubTexture name="GF FEAR 0000" x="2008" y="2599" width="334" height="513"/>
+	<SubTexture name="GF FEAR 0001" x="2442" y="2599" width="334" height="513"/>
+	<SubTexture name="GF FEAR 0002" x="2876" y="2599" width="334" height="513"/>
+	<SubTexture name="GF FEAR 0003" x="3310" y="2599" width="334" height="513"/>
+	<SubTexture name="GF Unicornio0000" x="100" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0001" x="100" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0002" x="558" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0003" x="558" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0004" x="1016" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0005" x="1016" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0006" x="1474" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0007" x="1474" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0008" x="1932" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0009" x="2390" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0010" x="2848" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0011" x="3306" y="3224" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0012" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0013" x="558" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0014" x="558" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0015" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0016" x="1016" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0017" x="1016" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0018" x="1474" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0019" x="1932" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0020" x="1932" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0021" x="2390" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0022" x="2390" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0023" x="1474" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0024" x="2848" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0025" x="2848" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0026" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0027" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0028" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0029" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0030" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0031" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0032" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0033" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0034" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0035" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0036" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0037" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0038" x="558" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0039" x="558" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0040" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0041" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0042" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0043" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0044" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0045" x="100" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0046" x="3306" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0047" x="3306" y="3877" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0048" x="100" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0049" x="100" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0050" x="558" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0051" x="558" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0052" x="1016" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0053" x="1016" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0054" x="1016" y="4530" width="358" height="553"/>
+	<SubTexture name="GF Unicornio0055" x="1016" y="4530" width="358" height="553"/>
+	<SubTexture name="GF bf que hiciste0000" x="1474" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0001" x="1474" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0002" x="1935" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0003" x="1935" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0004" x="2396" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0005" x="2396" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0006" x="2857" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0007" x="2857" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0008" x="3318" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0009" x="3318" y="4530" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0010" x="100" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0011" x="100" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0012" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0013" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0014" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0015" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0016" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0017" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0018" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0019" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0020" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0021" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0022" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0023" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0024" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0025" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0026" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0027" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0028" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0029" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0030" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0031" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0032" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0033" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0034" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0035" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0036" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0037" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0038" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0039" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0040" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0041" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0042" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0043" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0044" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0045" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0046" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0047" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0048" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0049" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0050" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0051" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0052" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0053" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0054" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0055" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0056" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0057" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0058" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0059" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0060" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0061" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0062" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0063" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0064" x="1022" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0065" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0066" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0067" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0068" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0069" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0070" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0071" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0072" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0073" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0074" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0075" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0076" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF bf que hiciste0077" x="561" y="5183" width="361" height="525"/>
+	<SubTexture name="GF yesterandom0000" x="1483" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0001" x="1483" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0002" x="1943" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0003" x="1943" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0004" x="2403" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0005" x="2403" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0006" x="2863" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0007" x="2863" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0008" x="3323" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0009" x="3323" y="5183" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0010" x="100" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0011" x="100" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0012" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0013" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0014" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0015" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0016" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0017" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0018" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0019" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0020" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0021" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0022" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0023" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0024" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0025" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0026" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0027" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0028" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0029" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0030" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0031" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0032" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0033" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0034" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0035" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0036" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0037" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0038" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0039" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0040" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0041" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0042" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0043" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0044" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0045" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0046" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0047" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0048" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0049" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0050" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0051" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0052" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0053" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0054" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0055" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0056" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0057" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0058" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0059" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0060" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0061" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0062" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0063" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0064" x="1020" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0065" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0066" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0067" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0068" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0069" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0070" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0071" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0072" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0073" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0074" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0075" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0076" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="GF yesterandom0077" x="560" y="5808" width="360" height="522"/>
+	<SubTexture name="gf sad0000" x="1480" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0001" x="1958" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0002" x="2436" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0003" x="2914" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0004" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0005" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0006" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0007" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0008" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0009" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0010" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0011" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0012" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0013" x="1056" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0014" x="1534" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0015" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0016" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0017" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0018" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0019" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0020" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0021" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0022" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0023" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0024" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0025" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0026" x="100" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0027" x="578" y="6430" width="378" height="500"/>
+	<SubTexture name="gf sad0028" x="3392" y="5808" width="378" height="500"/>
+	<SubTexture name="gf sad0029" x="100" y="6430" width="378" height="500"/>
+</TextureAtlas>

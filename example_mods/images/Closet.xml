@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Closet.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Puertas0000" x="0" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0001" x="880" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0002" x="1760" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0003" x="2640" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0004" x="3520" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0005" x="4400" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0006" x="5280" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0007" x="6160" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0008" x="7040" y="0" width="850" height="816"/>
+	<SubTexture name="Puertas0009" x="0" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0010" x="880" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0011" x="1760" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0012" x="2640" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0013" x="3520" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0014" x="4400" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0015" x="5280" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0016" x="6160" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0017" x="7040" y="846" width="850" height="816"/>
+	<SubTexture name="Puertas0018" x="0" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0019" x="880" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0020" x="1760" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0021" x="2640" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0022" x="3520" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0023" x="4400" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0024" x="5280" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0025" x="6160" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0026" x="7040" y="1692" width="850" height="816"/>
+	<SubTexture name="Puertas0027" x="0" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0028" x="880" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0029" x="1760" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0030" x="2640" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0031" x="3520" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0032" x="4400" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0033" x="5280" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0034" x="6160" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0035" x="7040" y="2538" width="850" height="816"/>
+	<SubTexture name="Puertas0036" x="0" y="3384" width="850" height="816"/>
+	<SubTexture name="Puertas0037" x="0" y="0" width="850" height="816"/>
+</TextureAtlas>

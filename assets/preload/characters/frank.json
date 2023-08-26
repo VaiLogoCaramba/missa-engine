@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Frank Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Frank LEFT NOTE"
+		},
+		{
+			"offsets": [
+				48,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Frank DOWN NOTE"
+		},
+		{
+			"offsets": [
+				47,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Frank UP NOTE"
+		},
+		{
+			"offsets": [
+				115,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Frank RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				-3,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Frank LEFT MISS"
+		},
+		{
+			"offsets": [
+				47,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Frank DOWN MISS"
+		},
+		{
+			"offsets": [
+				42,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Frank UP MISS"
+		},
+		{
+			"offsets": [
+				126,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Frank RIGHT MISS"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Frank",
+	"position": [
+		-10,
+		230
+	],
+	"healthicon": "frank",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		174,
+		201
+	],
+	"camera_position": [
+		-170,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

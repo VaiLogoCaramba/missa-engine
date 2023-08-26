@@ -1,0 +1,50 @@
+{
+	"storyName": "nuevo video?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cuadros",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lyrics",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"beepy_style",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rock_time",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

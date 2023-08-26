@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				272
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missa IZQUIERDA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				246
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Missa ABAJO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				301
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Missa ARRIBA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				295
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Missa DERECHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				263
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissaLEFTMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				243
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissaDOWNMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				304
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissaUPMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				285
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissaRIGHTMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MissaIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Aqui_estoy",
+	"position": [
+		0,
+		450
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-130,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

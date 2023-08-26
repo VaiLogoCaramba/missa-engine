@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stylophone.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stylophone DOWN MISS0000" x="20" y="20" width="307" height="226" frameX="-2" frameY="0" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0001" x="352" y="20" width="307" height="220" frameX="-2" frameY="0" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0002" x="352" y="20" width="307" height="220" frameX="-2" frameY="0" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0003" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0004" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0005" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0006" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0007" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0008" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0009" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0010" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0011" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0012" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN MISS0013" x="684" y="20" width="311" height="216" frameX="0" frameY="-4" frameWidth="311" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0000" x="1020" y="20" width="307" height="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0001" x="1020" y="20" width="307" height="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0002" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0003" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0004" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0005" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0006" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0007" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0008" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0009" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0010" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0011" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0012" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone DOWN NOTE0013" x="1352" y="20" width="307" height="219" frameX="0" frameY="-3" frameWidth="307" frameHeight="226"/>
+	<SubTexture name="Stylophone Idle0000" x="20" y="271" width="387" height="249" frameX="0" frameY="-7" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0001" x="20" y="271" width="387" height="249" frameX="0" frameY="-7" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0002" x="432" y="271" width="382" height="253" frameX="-2" frameY="-3" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0003" x="432" y="271" width="382" height="253" frameX="-2" frameY="-3" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0004" x="839" y="271" width="386" height="257" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0005" x="839" y="271" width="386" height="257" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0006" x="1250" y="271" width="386" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0007" x="1250" y="271" width="386" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0008" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0009" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0010" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0011" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0012" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone Idle0013" x="20" y="554" width="391" height="258" frameX="-4" frameY="0" frameWidth="395" frameHeight="258"/>
+	<SubTexture name="Stylophone LEFT MISS0000" x="436" y="554" width="344" height="294" frameX="-3" frameY="0" frameWidth="348" frameHeight="294"/>
+	<SubTexture name="Stylophone LEFT MISS0001" x="805" y="554" width="344" height="294" frameX="-3" frameY="0" frameWidth="348" frameHeight="294"/>
+	<SubTexture name="Stylophone LEFT MISS0002" x="805" y="554" width="344" height="294" frameX="-3" frameY="0" frameWidth="348" frameHeight="294"/>
+	<SubTexture name="Stylophone LEFT MISS0003" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0004" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0005" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0006" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0007" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0008" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0009" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0010" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0011" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0012" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT MISS0013" x="1174" y="554" width="348" height="294"/>
+	<SubTexture name="Stylophone LEFT NOTE0000" x="436" y="554" width="344" height="294" frameX="0" frameY="0" frameWidth="348" frameHeight="294"/>
+	<SubTexture name="Stylophone LEFT NOTE0001" x="436" y="554" width="344" height="294" frameX="0" frameY="0" frameWidth="348" frameHeight="294"/>
+	<SubTexture name="Stylophone LEFT NOTE0002" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0003" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0004" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0005" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0006" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0007" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0008" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0009" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0010" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0011" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0012" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone LEFT NOTE0013" x="1547" y="554" width="340" height="288" frameX="-16" frameY="-7" frameWidth="356" frameHeight="295"/>
+	<SubTexture name="Stylophone RIGHT MISS0000" x="20" y="873" width="469" height="224" frameX="0" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0001" x="514" y="873" width="469" height="205" frameX="0" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0002" x="514" y="873" width="469" height="205" frameX="0" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0003" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0004" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0005" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0006" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0007" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0008" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0009" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0010" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0011" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0012" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT MISS0013" x="1008" y="873" width="469" height="205" frameX="-2" frameY="0" frameWidth="471" frameHeight="224"/>
+	<SubTexture name="Stylophone RIGHT NOTE0000" x="1502" y="873" width="469" height="224" frameX="-6" frameY="-4" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0001" x="1502" y="873" width="469" height="224" frameX="-6" frameY="-4" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0002" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0003" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0004" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0005" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0006" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0007" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0008" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0009" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0010" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0011" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0012" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone RIGHT NOTE0013" x="20" y="1122" width="473" height="228" frameX="0" frameY="0" frameWidth="475" frameHeight="228"/>
+	<SubTexture name="Stylophone UP MISS0000" x="518" y="1122" width="370" height="271" frameX="0" frameY="-3" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0001" x="913" y="1122" width="370" height="271" frameX="0" frameY="-3" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0002" x="913" y="1122" width="370" height="271" frameX="0" frameY="-3" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0003" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0004" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0005" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0006" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0007" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0008" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0009" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0010" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0011" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0012" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP MISS0013" x="1308" y="1122" width="366" height="275" frameX="-2" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP NOTE0000" x="518" y="1122" width="370" height="271" frameX="0" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP NOTE0001" x="518" y="1122" width="370" height="271" frameX="0" frameY="0" frameWidth="370" frameHeight="275"/>
+	<SubTexture name="Stylophone UP NOTE0002" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0003" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0004" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0005" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0006" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0007" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0008" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0009" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0010" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0011" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0012" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+	<SubTexture name="Stylophone UP NOTE0013" x="20" y="1422" width="375" height="264" frameX="0" frameY="-7" frameWidth="375" frameHeight="271"/>
+</TextureAtlas>

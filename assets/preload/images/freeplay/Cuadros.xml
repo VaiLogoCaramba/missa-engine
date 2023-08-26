@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuadros.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cuadros0000" x="20" y="20" width="1517" height="659"/>
+	<SubTexture name="Cuadros0001" x="1562" y="20" width="1517" height="659"/>
+	<SubTexture name="Cuadros0002" x="3104" y="20" width="1517" height="659"/>
+	<SubTexture name="Cuadros0003" x="4646" y="20" width="1517" height="659"/>
+	<SubTexture name="Cuadros0004" x="6188" y="20" width="1517" height="659"/>
+	<SubTexture name="Cuadros0005" x="20" y="704" width="1517" height="659"/>
+	<SubTexture name="Cuadros0006" x="1562" y="704" width="1517" height="659"/>
+	<SubTexture name="Cuadros0007" x="3104" y="704" width="1517" height="659"/>
+	<SubTexture name="Cuadros0008" x="4646" y="704" width="1517" height="659"/>
+	<SubTexture name="Cuadros0009" x="6188" y="704" width="1517" height="659"/>
+	<SubTexture name="Cuadros0010" x="20" y="1388" width="1517" height="659"/>
+	<SubTexture name="Cuadros0011" x="1562" y="1388" width="1517" height="659"/>
+	<SubTexture name="Cuadros0012" x="3104" y="1388" width="1517" height="659"/>
+	<SubTexture name="Cuadros0013" x="4646" y="1388" width="1517" height="659"/>
+	<SubTexture name="Cuadros0014" x="6188" y="1388" width="1517" height="659"/>
+	<SubTexture name="Cuadros0015" x="20" y="2072" width="1517" height="659"/>
+	<SubTexture name="Cuadros0016" x="1562" y="2072" width="1517" height="659"/>
+	<SubTexture name="Cuadros0017" x="3104" y="2072" width="1517" height="659"/>
+	<SubTexture name="Cuadros0018" x="4646" y="2072" width="1517" height="659"/>
+	<SubTexture name="Cuadros0019" x="6188" y="2072" width="1517" height="659"/>
+	<SubTexture name="Cuadros0020" x="20" y="2756" width="1517" height="659"/>
+	<SubTexture name="Cuadros0021" x="1562" y="2756" width="1517" height="659"/>
+	<SubTexture name="Cuadros0022" x="3104" y="2756" width="1517" height="659"/>
+	<SubTexture name="Cuadros0023" x="4646" y="2756" width="1517" height="659"/>
+</TextureAtlas>

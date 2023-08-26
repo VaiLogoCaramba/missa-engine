@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				303,
+				-482
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-428
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MK LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-482
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MK RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-482
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MK DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-364
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MK UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				750,
+				100
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "MK Dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Meta_Knight",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "MK",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		20,
+		255
+	],
+	"camera_position": [
+		-380,
+		480
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

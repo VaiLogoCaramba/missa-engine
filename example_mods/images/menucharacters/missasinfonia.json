@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "ENTER",
+	"idle_anim": "Logo",
+	"position": [
+		847,
+		341
+	],
+	"scale": 0.75,
+	"image": "Missasinfonia",
+	"flipX": false
+}

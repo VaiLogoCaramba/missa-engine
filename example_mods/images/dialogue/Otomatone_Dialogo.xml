@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Otomatone_Dialogo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Otomatone Talk instance 10000" x="20" y="20" width="223" height="418" frameX="-2" frameY="0" frameWidth="227" frameHeight="418"/>
+	<SubTexture name="Otomatone Talk instance 10001" x="20" y="20" width="223" height="418" frameX="-2" frameY="0" frameWidth="227" frameHeight="418"/>
+	<SubTexture name="Otomatone Talk instance 10002" x="268" y="20" width="227" height="415" frameX="0" frameY="-3" frameWidth="227" frameHeight="418"/>
+	<SubTexture name="Otomatone Talk instance 10003" x="268" y="20" width="227" height="415" frameX="0" frameY="-3" frameWidth="227" frameHeight="418"/>
+	<SubTexture name="Otomatone Talk instance 10004" x="520" y="20" width="223" height="417" frameX="-2" frameY="-1" frameWidth="227" frameHeight="418"/>
+	<SubTexture name="Otomatone Talk instance 10005" x="520" y="20" width="223" height="417" frameX="-2" frameY="-1" frameWidth="227" frameHeight="418"/>
+</TextureAtlas>

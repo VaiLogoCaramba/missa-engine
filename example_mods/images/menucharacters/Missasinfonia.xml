@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Missasinfonia.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER0000" x="20" y="20" width="2014" height="1132"/>
+	<SubTexture name="ENTER0001" x="2059" y="20" width="2014" height="1132"/>
+	<SubTexture name="ENTER0002" x="4098" y="20" width="2014" height="1132"/>
+	<SubTexture name="ENTER0003" x="6137" y="20" width="2014" height="1132"/>
+	<SubTexture name="ENTER0004" x="20" y="1177" width="2014" height="1132"/>
+	<SubTexture name="ENTER0005" x="2059" y="1177" width="2014" height="1132"/>
+	<SubTexture name="ENTER0006" x="4098" y="1177" width="2014" height="1132"/>
+	<SubTexture name="ENTER0007" x="6137" y="1177" width="2014" height="1132"/>
+	<SubTexture name="ENTER0008" x="20" y="2334" width="2014" height="1132"/>
+	<SubTexture name="ENTER0009" x="2059" y="2334" width="2014" height="1132"/>
+	<SubTexture name="ENTER0010" x="4098" y="2334" width="2014" height="1132"/>
+	<SubTexture name="ENTER0011" x="6137" y="2334" width="2014" height="1132"/>
+	<SubTexture name="ENTER0012" x="20" y="3491" width="2014" height="1132"/>
+	<SubTexture name="ENTER0013" x="2059" y="3491" width="2014" height="1132"/>
+	<SubTexture name="ENTER0014" x="4098" y="3491" width="2014" height="1132"/>
+	<SubTexture name="ENTER0015" x="6137" y="3491" width="2014" height="1132"/>
+	<SubTexture name="ENTER0016" x="20" y="4648" width="2014" height="1132"/>
+	<SubTexture name="ENTER0017" x="2059" y="4648" width="2014" height="1132"/>
+	<SubTexture name="ENTER0018" x="4098" y="4648" width="2014" height="1132"/>
+	<SubTexture name="ENTER0019" x="6137" y="4648" width="2014" height="1132"/>
+	<SubTexture name="ENTER0020" x="20" y="5805" width="2014" height="1132"/>
+	<SubTexture name="ENTER0021" x="2059" y="5805" width="2014" height="1132"/>
+	<SubTexture name="ENTER0022" x="4098" y="5805" width="2014" height="1132"/>
+	<SubTexture name="ENTER0023" x="6137" y="5805" width="2014" height="1132"/>
+	<SubTexture name="ENTER0024" x="20" y="6962" width="2014" height="1132"/>
+	<SubTexture name="ENTER0025" x="2059" y="6962" width="2014" height="1132"/>
+	<SubTexture name="ENTER0026" x="4098" y="6962" width="2014" height="1132"/>
+	<SubTexture name="Logo0000" x="6137" y="6962" width="1347" height="765"/>
+</TextureAtlas>

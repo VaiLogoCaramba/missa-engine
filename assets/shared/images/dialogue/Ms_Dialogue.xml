@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ms_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MsAngry0000" x="823" y="10" width="395" height="690"/>
+	<SubTexture name="msangryloop0000" x="10" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msangryloop0001" x="10" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msangryloop0002" x="412" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msangryloop0003" x="412" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msangryloop0004" x="823" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msangryloop0005" x="823" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCool0000" x="2051" y="10" width="395" height="690"/>
+	<SubTexture name="mscoolloop0000" x="1238" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mscoolloop0001" x="1238" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mscoolloop0002" x="1640" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mscoolloop0003" x="1640" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mscoolloop0004" x="2051" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mscoolloop0005" x="2051" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalk0000" x="10" y="733" width="395" height="690"/>
+	<SubTexture name="mstalkloop0000" x="2466" y="10" width="383" height="703" frameX="-7" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mstalkloop0001" x="2466" y="10" width="383" height="703" frameX="-7" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mstalkloop0002" x="2869" y="10" width="392" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mstalkloop0003" x="2869" y="10" width="392" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mstalkloop0004" x="10" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="mstalkloop0005" x="10" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsConfiused0000" x="1238" y="733" width="395" height="690"/>
+	<SubTexture name="msconfiusedloop0000" x="425" y="733" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msconfiusedloop0001" x="425" y="733" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msconfiusedloop0002" x="827" y="733" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msconfiusedloop0003" x="827" y="733" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msconfiusedloop0004" x="1238" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="msconfiusedloop0005" x="1238" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+</TextureAtlas>

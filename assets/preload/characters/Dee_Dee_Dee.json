@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				147,
+				-400
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dee dee idle"
+		},
+		{
+			"offsets": [
+				141,
+				-394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dee dee LEFT"
+		},
+		{
+			"offsets": [
+				102,
+				-394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dee dee RIGHT"
+		},
+		{
+			"offsets": [
+				162,
+				-429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dee dee DOWN"
+		},
+		{
+			"offsets": [
+				69,
+				-376
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dee dee UP"
+		},
+		{
+			"offsets": [
+				121,
+				-380
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "soy dee",
+			"indices": [],
+			"name": "SOY DEE"
+		},
+		{
+			"offsets": [
+				928,
+				-288
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "carrera",
+			"indices": [],
+			"name": "Carrera"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kirby_Dee_Dee",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "dee",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		200
+	],
+	"camera_position": [
+		-740,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

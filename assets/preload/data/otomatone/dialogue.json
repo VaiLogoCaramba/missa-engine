@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "confiused",
+			"text": "que-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "como chingados cabian en esa caja!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop beep",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "que chingados dijiste!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "usted ordeno un cantante ",
+			"boxState": "normal",
+			"sound": "GF_4",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confiused",
+			"text": "entonces eres el cantante que ordene en marketplace de facebook?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "boop!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "esta bien, probemos con un dueto minimalista vale?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cool",
+			"text": "bien, improvisare un poco y luego tu sigues ok?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		}
+	]
+}

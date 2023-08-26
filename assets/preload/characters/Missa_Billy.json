@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-1
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BillyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BillyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BillyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BillyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BillyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				56
+			],
+			"anim": "tas bien wey",
+			"fps": 24,
+			"name": "Billy tas bien wey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				405,
+				29
+			],
+			"anim": "Duelo",
+			"fps": 24,
+			"name": "Billy duelo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Billy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-70,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

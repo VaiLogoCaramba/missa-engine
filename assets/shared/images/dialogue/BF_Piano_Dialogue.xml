@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Piano_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Loop0000" x="0" y="0" width="492" height="426"/>
+	<SubTexture name="BF Loop0001" x="0" y="0" width="492" height="426"/>
+	<SubTexture name="BF Loop0002" x="512" y="0" width="490" height="424" frameX="0" frameY="-2" frameWidth="492" frameHeight="426"/>
+	<SubTexture name="BF Loop0003" x="512" y="0" width="490" height="424" frameX="0" frameY="-2" frameWidth="492" frameHeight="426"/>
+	<SubTexture name="BF Loop0004" x="0" y="446" width="488" height="422" frameX="0" frameY="-4" frameWidth="492" frameHeight="426"/>
+	<SubTexture name="BF Loop0005" x="0" y="446" width="488" height="422" frameX="0" frameY="-4" frameWidth="492" frameHeight="426"/>
+	<SubTexture name="bfidle0004" x="0" y="446" width="488" height="422" frameX="0" frameY="-4" frameWidth="492" frameHeight="426"/>
+</TextureAtlas>

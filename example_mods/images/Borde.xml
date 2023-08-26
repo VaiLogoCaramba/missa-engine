@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Borde.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Borde0000" x="20" y="20" width="574" height="90"/>
+	<SubTexture name="Borde0001" x="694" y="20" width="574" height="90"/>
+	<SubTexture name="Borde0002" x="1368" y="20" width="574" height="90"/>
+	<SubTexture name="Borde0003" x="20" y="210" width="574" height="90"/>
+	<SubTexture name="Borde0004" x="694" y="210" width="574" height="90"/>
+	<SubTexture name="Borde0005" x="1368" y="210" width="574" height="90"/>
+	<SubTexture name="Borde0006" x="20" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0007" x="694" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0008" x="1368" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0009" x="20" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0010" x="694" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0011" x="1368" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0012" x="20" y="780" width="574" height="90"/>
+	<SubTexture name="Borde0013" x="20" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0014" x="694" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0015" x="1368" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0016" x="20" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0017" x="694" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0018" x="1368" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0019" x="20" y="780" width="574" height="90"/>
+	<SubTexture name="Borde0020" x="20" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0021" x="694" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0022" x="1368" y="400" width="574" height="90"/>
+	<SubTexture name="Borde0023" x="20" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0024" x="694" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0025" x="1368" y="590" width="574" height="90"/>
+	<SubTexture name="Borde0026" x="20" y="780" width="574" height="90"/>
+	<SubTexture name="Borde0027" x="20" y="400" width="574" height="90"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MissaIdle"
+		},
+		{
+			"offsets": [
+				4,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Missa ARRIBA"
+		},
+		{
+			"offsets": [
+				140,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Missa IZQUIERDA"
+		},
+		{
+			"offsets": [
+				26,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Missa ABAJO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missa DERECHA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissaNEON",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missaNEON",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		140,
+		255
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

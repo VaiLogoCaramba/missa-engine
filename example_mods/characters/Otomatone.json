@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Otomatone LEFT"
+		},
+		{
+			"offsets": [
+				-1,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Otomatone Idle"
+		},
+		{
+			"offsets": [
+				-8,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Otomatone UP"
+		},
+		{
+			"offsets": [
+				-58,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Otomatone RIGHT"
+		},
+		{
+			"offsets": [
+				13,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Otomatone DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Otomatone",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "otomatone",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		157,
+		194
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

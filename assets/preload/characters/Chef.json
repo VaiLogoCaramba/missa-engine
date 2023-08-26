@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				159,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chef Idle"
+		},
+		{
+			"offsets": [
+				162,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chef LEFT"
+		},
+		{
+			"offsets": [
+				153,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chef RIGHT"
+		},
+		{
+			"offsets": [
+				156,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chef DOWN"
+		},
+		{
+			"offsets": [
+				168,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chef UP"
+		},
+		{
+			"offsets": [
+				162,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pepe",
+			"indices": [],
+			"name": "Chef pepe botellas"
+		},
+		{
+			"offsets": [
+				160,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "video",
+			"indices": [],
+			"name": "Chef video cocinando"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheffini Missancio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		110,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

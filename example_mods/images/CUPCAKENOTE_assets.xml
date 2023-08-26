@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CUPCAKENOTE_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="304" y="30" width="187" height="248" frameX="-7" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0001" x="551" y="30" width="191" height="245" frameX="-6" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0002" x="802" y="30" width="180" height="255" frameX="-19" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0003" x="30" y="345" width="191" height="261" frameX="-12" frameY="-4" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0004" x="281" y="345" width="201" height="236" frameX="-6" frameY="-6" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0005" x="542" y="345" width="190" height="244" frameX="0" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0006" x="792" y="345" width="189" height="249" frameX="-10" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0007" x="30" y="666" width="215" height="257" frameX="0" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0008" x="305" y="666" width="208" height="246" frameX="0" frameY="0" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue0009" x="573" y="666" width="168" height="250" frameX="-22" frameY="-3" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="blue hold end0000" x="168" y="30" width="76" height="69"/>
+	<SubTexture name="blue hold piece0000" x="30" y="30" width="78" height="93"/>
+	<SubTexture name="green0000" x="304" y="30" width="187" height="248" frameX="-7" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0001" x="551" y="30" width="191" height="245" frameX="-6" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0002" x="802" y="30" width="180" height="255" frameX="-19" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0003" x="30" y="345" width="191" height="261" frameX="-12" frameY="-4" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0004" x="281" y="345" width="201" height="236" frameX="-6" frameY="-6" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0005" x="542" y="345" width="190" height="244" frameX="0" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0006" x="792" y="345" width="189" height="249" frameX="-10" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0007" x="30" y="666" width="215" height="257" frameX="0" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0008" x="305" y="666" width="208" height="246" frameX="0" frameY="0" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green0009" x="573" y="666" width="168" height="250" frameX="-22" frameY="-3" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="green hold end0000" x="168" y="30" width="76" height="69"/>
+	<SubTexture name="green hold piece0000" x="30" y="30" width="78" height="93"/>
+	<SubTexture name="purple0000" x="304" y="30" width="187" height="248" frameX="-7" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0001" x="551" y="30" width="191" height="245" frameX="-6" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0002" x="802" y="30" width="180" height="255" frameX="-19" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0003" x="30" y="345" width="191" height="261" frameX="-12" frameY="-4" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0004" x="281" y="345" width="201" height="236" frameX="-6" frameY="-6" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0005" x="542" y="345" width="190" height="244" frameX="0" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0006" x="792" y="345" width="189" height="249" frameX="-10" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0007" x="30" y="666" width="215" height="257" frameX="0" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0008" x="305" y="666" width="208" height="246" frameX="0" frameY="0" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple0009" x="573" y="666" width="168" height="250" frameX="-22" frameY="-3" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="purple hold end0000" x="168" y="30" width="76" height="69"/>
+	<SubTexture name="purple hold piece0000" x="30" y="30" width="78" height="93"/>
+	<SubTexture name="red0000" x="304" y="30" width="187" height="248" frameX="-7" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0001" x="551" y="30" width="191" height="245" frameX="-6" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0002" x="802" y="30" width="180" height="255" frameX="-19" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0003" x="30" y="345" width="191" height="261" frameX="-12" frameY="-4" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0004" x="281" y="345" width="201" height="236" frameX="-6" frameY="-6" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0005" x="542" y="345" width="190" height="244" frameX="0" frameY="-7" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0006" x="792" y="345" width="189" height="249" frameX="-10" frameY="-8" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0007" x="30" y="666" width="215" height="257" frameX="0" frameY="-9" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0008" x="305" y="666" width="208" height="246" frameX="0" frameY="0" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red0009" x="573" y="666" width="168" height="250" frameX="-22" frameY="-3" frameWidth="215" frameHeight="266"/>
+	<SubTexture name="red hold end0000" x="168" y="30" width="76" height="69"/>
+	<SubTexture name="red hold piece0000" x="30" y="30" width="78" height="93"/>
+</TextureAtlas>

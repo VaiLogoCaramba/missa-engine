@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "que chingada madre fue eso!?",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"sound": "Bai",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "osea, si, sono genial y todo, pero",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "era necesario hablar de esa forma?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"sound": "Bai",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "mira, sabes tocar la guitarra?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "pues preparate porque tengo una rola para ti!",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		}
+	]
+}

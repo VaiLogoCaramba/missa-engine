@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chica.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chica0000" x="0" y="0" width="676" height="625" frameX="0" frameY="-30" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0001" x="706" y="0" width="675" height="625" frameX="-1" frameY="-30" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0002" x="1411" y="0" width="675" height="624" frameX="-1" frameY="-29" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0003" x="2116" y="0" width="674" height="623" frameX="-1" frameY="-28" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0004" x="2820" y="0" width="673" height="625" frameX="-2" frameY="-26" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0005" x="0" y="655" width="672" height="628" frameX="-3" frameY="-24" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0006" x="702" y="655" width="669" height="631" frameX="-5" frameY="-21" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0007" x="1401" y="655" width="667" height="635" frameX="-6" frameY="-18" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0008" x="2098" y="655" width="664" height="638" frameX="-8" frameY="-15" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0009" x="2792" y="655" width="661" height="641" frameX="-10" frameY="-12" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0010" x="0" y="1326" width="659" height="645" frameX="-12" frameY="-9" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0011" x="689" y="1326" width="657" height="648" frameX="-13" frameY="-6" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0012" x="1376" y="1326" width="655" height="651" frameX="-15" frameY="-4" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0013" x="2061" y="1326" width="653" height="653" frameX="-16" frameY="-2" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0014" x="2744" y="1326" width="653" height="654" frameX="-16" frameY="-1" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0015" x="3427" y="1326" width="652" height="654" frameX="-17" frameY="-1" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0016" x="0" y="2010" width="652" height="655" frameX="-17" frameY="0" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0017" x="3427" y="1326" width="652" height="654" frameX="-17" frameY="0" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0018" x="682" y="2010" width="653" height="654" frameX="-16" frameY="-1" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0019" x="1365" y="2010" width="653" height="653" frameX="-16" frameY="-2" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0020" x="2048" y="2010" width="654" height="651" frameX="-15" frameY="-4" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0021" x="2732" y="2010" width="656" height="649" frameX="-14" frameY="-5" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0022" x="3418" y="2010" width="657" height="646" frameX="-13" frameY="-8" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0023" x="0" y="2695" width="660" height="644" frameX="-11" frameY="-10" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0024" x="690" y="2695" width="663" height="640" frameX="-9" frameY="-13" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0025" x="1383" y="2695" width="666" height="636" frameX="-7" frameY="-17" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0026" x="2079" y="2695" width="667" height="632" frameX="-6" frameY="-20" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0027" x="2776" y="2695" width="670" height="630" frameX="-4" frameY="-22" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0028" x="0" y="3369" width="672" height="627" frameX="-3" frameY="-25" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0029" x="702" y="3369" width="673" height="625" frameX="-2" frameY="-26" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0030" x="1405" y="3369" width="674" height="624" frameX="-1" frameY="-28" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0031" x="2109" y="3369" width="675" height="624" frameX="-1" frameY="-29" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0032" x="2814" y="3369" width="675" height="625" frameX="-1" frameY="-30" frameWidth="676" frameHeight="655"/>
+	<SubTexture name="Chica0033" x="0" y="0" width="676" height="625" frameX="0" frameY="-30" frameWidth="676" frameHeight="655"/>
+</TextureAtlas>

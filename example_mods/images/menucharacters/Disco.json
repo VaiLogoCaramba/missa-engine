@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "disco",
+	"idle_anim": "disco",
+	"position": [
+		-25,
+		250
+	],
+	"scale": 0.55,
+	"image": "Disco",
+	"flipX": false
+}

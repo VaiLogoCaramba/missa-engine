@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Creditos.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LogoYoutube0000" x="10" y="10" width="895" height="577"/>
+	<SubTexture name="LogoYoutube0001" x="965" y="10" width="893" height="576" frameX="-1" frameY="0" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0002" x="10" y="647" width="887" height="574" frameX="-5" frameY="-1" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0003" x="957" y="647" width="876" height="571" frameX="-12" frameY="-3" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0004" x="10" y="1281" width="861" height="568" frameX="-22" frameY="-4" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0005" x="931" y="1281" width="842" height="562" frameX="-34" frameY="-7" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0006" x="10" y="1909" width="828" height="557" frameX="-43" frameY="-9" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0007" x="898" y="1909" width="817" height="555" frameX="-50" frameY="-10" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0008" x="10" y="2526" width="811" height="553" frameX="-54" frameY="-11" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0009" x="881" y="2526" width="808" height="553" frameX="-56" frameY="-11" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0010" x="881" y="2526" width="808" height="553" frameX="-56" frameY="-11" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0011" x="881" y="2526" width="808" height="553" frameX="-56" frameY="-11" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0012" x="881" y="2526" width="808" height="553" frameX="-56" frameY="-11" frameWidth="895" frameHeight="577"/>
+	<SubTexture name="LogoYoutube0013" x="881" y="2526" width="808" height="553" frameX="-56" frameY="-11" frameWidth="895" frameHeight="577"/>
+</TextureAtlas>

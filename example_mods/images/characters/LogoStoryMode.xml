@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LogoStoryMode.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LogoStoryMode0000" x="100" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0001" x="786" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0002" x="1472" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0003" x="2158" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0004" x="2844" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0005" x="100" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0006" x="786" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0007" x="1472" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0008" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0009" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0010" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0011" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0012" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0013" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0014" x="100" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0015" x="786" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0016" x="1472" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0017" x="2158" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0018" x="2844" y="100" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0019" x="100" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0020" x="786" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0021" x="1472" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0022" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0023" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0024" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0025" x="2844" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0026" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0027" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0028" x="100" y="1830" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0029" x="786" y="1830" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0030" x="1472" y="1830" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0031" x="2158" y="1830" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0032" x="2844" y="1830" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0033" x="100" y="2695" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0034" x="786" y="2695" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0035" x="1472" y="2695" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0036" x="2158" y="2695" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0037" x="2844" y="2695" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0038" x="100" y="3560" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0039" x="100" y="3560" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0040" x="2158" y="965" width="586" height="765"/>
+	<SubTexture name="LogoStoryMode0041" x="2158" y="965" width="586" height="765"/>
+</TextureAtlas>

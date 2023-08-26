@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		60,
+		30
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "BF Loop",
+			"idle_name": "bfidle"
+		}
+	],
+	"image": "BF_Piano_Dialogue"
+}

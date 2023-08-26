@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Missa Idle"
+		},
+		{
+			"offsets": [
+				22,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Missa LEFT"
+		},
+		{
+			"offsets": [
+				-2,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Missa RIGHT"
+		},
+		{
+			"offsets": [
+				3,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Missa DOWN"
+		},
+		{
+			"offsets": [
+				-4,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Missa UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Guion",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-70,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

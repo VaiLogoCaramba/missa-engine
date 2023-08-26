@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				490,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Missa Nightmare LEFT"
+		},
+		{
+			"offsets": [
+				123,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Missa Nightmare RIGHT"
+		},
+		{
+			"offsets": [
+				146,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Missa Nightmare UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Missa Nightmare DOW",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				-29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Missa Nightmare Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa Nightmare",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

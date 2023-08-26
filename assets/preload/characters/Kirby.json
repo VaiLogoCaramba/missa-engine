@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-579
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KirbyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-585
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KirbyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-586
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KirbyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-587
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KirbyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-567
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KirbyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-518
+			],
+			"anim": "morir",
+			"fps": 24,
+			"name": "KirbyTeQuieresMorir",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-585
+			],
+			"anim": "doctorado",
+			"fps": 24,
+			"name": "KirbyConDoctorado",
+			"indices": []
+		},
+		{
+			"offsets": [
+				428,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "comer",
+			"indices": [],
+			"name": "Kirby Torta"
+		},
+		{
+			"offsets": [
+				487,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "mk",
+			"indices": [],
+			"name": "Kirby Meta Knight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kirby",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "kirby",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		200
+	],
+	"camera_position": [
+		-490,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

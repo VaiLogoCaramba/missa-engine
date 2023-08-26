@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bueno, no importa, ya sabia que pasaria eso",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bop...",
+			"boxState": "normal",
+			"sound": "Bai",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "oye, y que me dices del sintetizador?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "pues preparate porque ya tengo una cancion en mente!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		}
+	]
+}

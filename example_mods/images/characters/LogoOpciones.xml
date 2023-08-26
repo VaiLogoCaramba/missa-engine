@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Opciones.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LogoOptions0000" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0001" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0002" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0003" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0004" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0005" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0006" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0007" x="733" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0008" x="733" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0009" x="10" y="755" width="663" height="685"/>
+	<SubTexture name="LogoOptions0010" x="733" y="755" width="663" height="685"/>
+	<SubTexture name="LogoOptions0011" x="733" y="755" width="663" height="685"/>
+	<SubTexture name="LogoOptions0012" x="10" y="1500" width="663" height="685"/>
+	<SubTexture name="LogoOptions0013" x="10" y="1500" width="663" height="685"/>
+	<SubTexture name="LogoOptions0014" x="10" y="755" width="663" height="685"/>
+	<SubTexture name="LogoOptions0015" x="733" y="1500" width="663" height="685"/>
+	<SubTexture name="LogoOptions0016" x="733" y="1500" width="663" height="685"/>
+	<SubTexture name="LogoOptions0017" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0018" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0019" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0020" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0021" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0022" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0023" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0024" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0025" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0026" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0027" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0028" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0029" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0030" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0031" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0032" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0033" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0034" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0035" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0036" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0037" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0038" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0039" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0040" x="10" y="10" width="663" height="685"/>
+	<SubTexture name="LogoOptions0041" x="10" y="10" width="663" height="685"/>
+</TextureAtlas>

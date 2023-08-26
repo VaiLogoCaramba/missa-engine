@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_CocaCola.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF coca0000" x="0" y="0" width="403" height="412" frameX="0" frameY="-3" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0001" x="0" y="0" width="403" height="412" frameX="0" frameY="-3" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0002" x="423" y="0" width="393" height="412" frameX="-10" frameY="-3" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0003" x="423" y="0" width="393" height="412" frameX="-10" frameY="-3" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0004" x="836" y="0" width="403" height="413" frameX="-2" frameY="-2" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0005" x="1259" y="0" width="376" height="413" frameX="-29" frameY="-2" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0006" x="1655" y="0" width="372" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0007" x="1655" y="0" width="372" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0008" x="0" y="434" width="381" height="415" frameX="-28" frameY="0" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0009" x="0" y="434" width="381" height="415" frameX="-28" frameY="0" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0010" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0011" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0012" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0013" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0014" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0015" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0016" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0017" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0018" x="401" y="434" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0019" x="798" y="434" width="386" height="408" frameX="-31" frameY="-7" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0020" x="1204" y="434" width="396" height="403" frameX="-26" frameY="-12" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0021" x="1620" y="434" width="386" height="408" frameX="-31" frameY="-7" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0022" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0023" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0024" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0025" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0026" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0027" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0028" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0029" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0030" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0031" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0032" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0033" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0034" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF coca0035" x="0" y="869" width="377" height="414" frameX="-36" frameY="-1" frameWidth="422" frameHeight="415"/>
+	<SubTexture name="BF idle dance0000" x="397" y="869" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0001" x="397" y="869" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0002" x="823" y="869" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0003" x="823" y="869" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0004" x="1251" y="869" width="406" height="398" frameX="-2" frameY="-14" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0005" x="1251" y="869" width="406" height="398" frameX="-2" frameY="-14" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0006" x="0" y="1303" width="411" height="411" frameX="0" frameY="-1" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0007" x="0" y="1303" width="411" height="411" frameX="0" frameY="-1" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0008" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0009" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0010" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0011" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0012" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance0013" x="431" y="1303" width="410" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412"/>
+</TextureAtlas>

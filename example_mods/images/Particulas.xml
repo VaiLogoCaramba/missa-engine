@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Particulas.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Particulas0000" x="20" y="20" width="1301" height="565" frameX="-12" frameY="-268" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0001" x="1346" y="20" width="1301" height="528" frameX="-12" frameY="-256" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0002" x="2672" y="20" width="1301" height="585" frameX="-12" frameY="-182" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0003" x="20" y="630" width="1301" height="633" frameX="-12" frameY="-134" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0004" x="1346" y="630" width="1301" height="675" frameX="-12" frameY="-92" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0005" x="2672" y="630" width="1301" height="718" frameX="-12" frameY="-49" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0006" x="20" y="1373" width="1301" height="806" frameX="-12" frameY="-28" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0007" x="1346" y="1373" width="1301" height="772" frameX="-12" frameY="-13" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0008" x="2672" y="1373" width="1301" height="763" frameX="-12" frameY="-3" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0009" x="20" y="2204" width="1301" height="789" frameX="-12" frameY="0" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0010" x="1346" y="2204" width="1301" height="584" frameX="-12" frameY="-189" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0011" x="2672" y="2204" width="1301" height="597" frameX="-12" frameY="-211" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0012" x="20" y="3018" width="1301" height="576" frameX="-12" frameY="-203" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0013" x="1346" y="3018" width="1301" height="570" frameX="-12" frameY="-196" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0014" x="2672" y="3018" width="1301" height="611" frameX="-12" frameY="-190" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0015" x="20" y="3654" width="1301" height="588" frameX="-12" frameY="-184" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0016" x="1346" y="3654" width="1307" height="599" frameX="-6" frameY="-185" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0017" x="2678" y="3654" width="1308" height="581" frameX="-5" frameY="-187" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0018" x="20" y="4278" width="1313" height="671" frameX="0" frameY="-191" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0019" x="1358" y="4278" width="1312" height="636" frameX="-1" frameY="-197" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0020" x="2695" y="4278" width="1312" height="599" frameX="-1" frameY="-200" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0021" x="20" y="4974" width="1308" height="568" frameX="-5" frameY="-198" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0022" x="1353" y="4974" width="1305" height="560" frameX="-8" frameY="-223" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0023" x="2683" y="4974" width="1301" height="534" frameX="-12" frameY="-233" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0024" x="20" y="5567" width="1305" height="620" frameX="-12" frameY="-242" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0025" x="1350" y="5567" width="1309" height="576" frameX="-12" frameY="-250" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0026" x="2684" y="5567" width="1311" height="520" frameX="-12" frameY="-257" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0027" x="20" y="6212" width="1304" height="505" frameX="-12" frameY="-262" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0028" x="1349" y="6212" width="1301" height="502" frameX="-12" frameY="-265" frameWidth="1323" frameHeight="862"/>
+	<SubTexture name="Particulas0029" x="2675" y="6212" width="1301" height="499" frameX="-12" frameY="-268" frameWidth="1323" frameHeight="862"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-579
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KirbyIdle"
+		},
+		{
+			"offsets": [
+				65,
+				-479
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KirbyAnim8"
+		},
+		{
+			"offsets": [
+				190,
+				-539
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KirbyAnim6"
+		},
+		{
+			"offsets": [
+				47,
+				-525
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KirbyAnim5"
+		},
+		{
+			"offsets": [
+				36,
+				-424
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KirbyAnim7"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kirby_Anim_2",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "kirby",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		200
+	],
+	"camera_position": [
+		-190,
+		510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

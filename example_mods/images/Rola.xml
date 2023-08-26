@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rola.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rola0000" x="10" y="10" width="316" height="791" frameX="0" frameY="-6" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0001" x="10" y="10" width="316" height="791" frameX="0" frameY="-6" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0002" x="386" y="10" width="316" height="791" frameX="-1" frameY="-6" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0003" x="386" y="10" width="316" height="791" frameX="-1" frameY="-6" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0004" x="762" y="10" width="320" height="794" frameX="-1" frameY="-2" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0005" x="762" y="10" width="320" height="794" frameX="-1" frameY="-2" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0006" x="1142" y="10" width="322" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0007" x="1142" y="10" width="322" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0008" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0009" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0010" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0011" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0012" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+	<SubTexture name="Rola0013" x="1524" y="10" width="323" height="796" frameX="-1" frameY="0" frameWidth="324" frameHeight="797"/>
+</TextureAtlas>

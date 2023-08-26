@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-176
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Missa ABAJO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Missa ARRIBA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Missa IZQUIERDA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-88
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missa DERECHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				-80
+			],
+			"anim": "Dance",
+			"fps": 24,
+			"name": "MissaDance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				189,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "MissaDance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Langosta",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-50,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

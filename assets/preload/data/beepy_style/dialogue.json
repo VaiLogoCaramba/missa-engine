@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "pues... oye, no sono tan mal, sono genial!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "missa",
+			"sound": ""
+		},
+		{
+			"expression": "cool",
+			"text": "creo que puedo acostumbrarme",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "missa",
+			"sound": ""
+		},
+		{
+			"expression": "cool",
+			"text": "quieres continuar?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "missa",
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf",
+			"sound": "Bai"
+		},
+		{
+			"expression": "cool",
+			"text": "pues a darle!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "missa",
+			"sound": ""
+		}
+	]
+}

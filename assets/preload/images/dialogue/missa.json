@@ -1,0 +1,77 @@
+{
+	"position": [
+		-10,
+		0
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "Missa_Dialogo",
+	"animations": [
+		{
+			"idle_offsets": [
+				-170,
+				-3
+			],
+			"loop_offsets": [
+				-170,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "MsTalkIdle",
+			"loop_name": "MsTalkLoop"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-24
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				-170,
+				-28
+			],
+			"loop_name": "MsAngryLoop",
+			"idle_name": "MsAngryIdle"
+		},
+		{
+			"loop_offsets": [
+				-164,
+				-4
+			],
+			"anim": "cool",
+			"idle_offsets": [
+				-164,
+				-12
+			],
+			"loop_name": "MsCoolLoop",
+			"idle_name": "MsCoolIdle"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-11
+			],
+			"anim": "confiused",
+			"idle_offsets": [
+				-170,
+				-17
+			],
+			"loop_name": "MsRaroLoop",
+			"idle_name": "MsRaroIdle"
+		},
+		{
+			"loop_offsets": [
+				-173,
+				3
+			],
+			"anim": "WFT",
+			"idle_offsets": [
+				-173,
+				3
+			],
+			"loop_name": "MsWTFLoop",
+			"idle_name": "MsWTFLoop"
+		}
+	]
+}

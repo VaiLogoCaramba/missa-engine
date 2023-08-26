@@ -1,0 +1,58 @@
+{
+	"storyName": "missasinfonia",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cuadros",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"otomatone",
+			"missa",
+			[
+				0,
+				193,
+				253
+			]
+		],
+		[
+			"oaxaca",
+			"missa",
+			[
+				0,
+				93,
+				253
+			]
+		],
+		[
+			"cancion_china",
+			"missa",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"cuarentena",
+			"missa",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "MissaWeek"
+}

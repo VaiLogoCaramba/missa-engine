@@ -1,0 +1,67 @@
+{
+	"storyName": "Week Extra",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"rap_kirby",
+			"kirby",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"Otomatone_Vs_Stylophone",
+			"otomatone",
+			[
+				215,
+				113,
+				173
+			]
+		],
+		[
+			"grape_soda",
+			"missa",
+			[
+				255,
+				40,
+				53
+			]
+		],
+		[
+			"missa_langosta",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"nightmare",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WeekE"
+}

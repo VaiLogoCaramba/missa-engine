@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Stylophone Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Stylophone LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-109
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Stylophone DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				-94
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Stylophone UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Stylophone RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-70
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Stylophone LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				-111
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Stylophone DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-89
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Stylophone UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				-108
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Stylophone RIGHT MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stylophone",
+	"position": [
+		-80,
+		450
+	],
+	"healthicon": "stylophone",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		89,
+		89
+	],
+	"camera_position": [
+		-40,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

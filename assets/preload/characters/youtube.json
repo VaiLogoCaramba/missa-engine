@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				132,
+				-134
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LogoYoutube",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LogoYoutube",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-420,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

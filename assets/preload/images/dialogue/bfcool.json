@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		100
+	],
+	"dialogue_pos": "right",
+	"scale": 1.3,
+	"image": "BF_Guitar_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BFTalk",
+			"loop_name": "bftalkloop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cool",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfcooltloop",
+			"idle_name": "BFCoolTalk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfconfusedloop",
+			"idle_name": "BFConfusedTalk"
+		}
+	]
+}

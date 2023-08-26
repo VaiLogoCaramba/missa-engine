@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "cool",
+			"text": "esa cancion estuvo perrona viejo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "GF_4",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "espera un segundo!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "angry",
+			"text": "esa es una guitarra china!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "estaba a 5 pesos",
+			"boxState": "normal",
+			"sound": "GF_4",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confiused",
+			"text": "5 pesos?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "cool",
+			"text": "me diste una idea! toca ritmo viejo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "missa"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "Bai",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Missa Segundo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Missa ABAJO instance 10000" x="20" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10001" x="487" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10002" x="954" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10003" x="1421" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10004" x="1888" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10005" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10006" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10007" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10008" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10009" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10010" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10011" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10012" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10013" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10014" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10015" x="2355" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10016" x="2822" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10017" x="2822" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10018" x="3289" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ABAJO instance 10019" x="3289" y="20" width="442" height="703"/>
+	<SubTexture name="Missa ARRIBA instance 10000" x="20" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10001" x="20" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10002" x="475" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10003" x="475" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10004" x="930" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10005" x="930" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10006" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10007" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10008" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10009" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10010" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10011" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10012" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10013" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10014" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10015" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10016" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10017" x="1385" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10018" x="1840" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10019" x="1840" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10020" x="2295" y="748" width="430" height="740"/>
+	<SubTexture name="Missa ARRIBA instance 10021" x="2295" y="748" width="430" height="740"/>
+	<SubTexture name="Missa DERECHA instance 10000" x="2750" y="748" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10001" x="2750" y="748" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10002" x="3380" y="748" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10003" x="3380" y="748" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10004" x="20" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10005" x="20" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10006" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10007" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10008" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10009" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10010" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10011" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10012" x="650" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10013" x="1280" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10014" x="1280" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10015" x="1910" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10016" x="1910" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10017" x="2540" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa DERECHA instance 10018" x="2540" y="1513" width="605" height="708"/>
+	<SubTexture name="Missa IZQUIERDA instance 10000" x="3170" y="1513" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10001" x="3170" y="1513" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10002" x="20" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10003" x="20" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10004" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10005" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10006" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10007" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10008" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10009" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10010" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10011" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10012" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10013" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10014" x="578" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10015" x="1136" y="2246" width="533" height="685"/>
+	<SubTexture name="Missa IZQUIERDA instance 10016" x="1694" y="2246" width="533" height="685"/>
+	<SubTexture name="MissaIdle instance 10000" x="2252" y="2246" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10001" x="2698" y="2246" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10002" x="3144" y="2246" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10003" x="3590" y="2246" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10004" x="20" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10005" x="466" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10006" x="912" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10007" x="1358" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10008" x="1804" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10009" x="2250" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10010" x="2250" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10011" x="2696" y="2967" width="421" height="696"/>
+	<SubTexture name="MissaIdle instance 10012" x="2696" y="2967" width="421" height="696"/>
+</TextureAtlas>

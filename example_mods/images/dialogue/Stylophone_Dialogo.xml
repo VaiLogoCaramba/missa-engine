@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stylophone_Dialogo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stylophone Talk instance 10000" x="20" y="20" width="392" height="258" frameX="-2" frameY="0" frameWidth="396" frameHeight="258"/>
+	<SubTexture name="Stylophone Talk instance 10001" x="20" y="20" width="392" height="258" frameX="-2" frameY="0" frameWidth="396" frameHeight="258"/>
+	<SubTexture name="Stylophone Talk instance 10002" x="20" y="303" width="396" height="253" frameX="0" frameY="-4" frameWidth="396" frameHeight="258"/>
+	<SubTexture name="Stylophone Talk instance 10003" x="20" y="303" width="396" height="253" frameX="0" frameY="-4" frameWidth="396" frameHeight="258"/>
+	<SubTexture name="Stylophone Talk instance 10004" x="20" y="581" width="392" height="257" frameX="-2" frameY="-1" frameWidth="396" frameHeight="258"/>
+	<SubTexture name="Stylophone Talk instance 10005" x="20" y="581" width="392" height="257" frameX="-2" frameY="-1" frameWidth="396" frameHeight="258"/>
+</TextureAtlas>

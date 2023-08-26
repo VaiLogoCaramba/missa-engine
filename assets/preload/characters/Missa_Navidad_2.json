@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				-168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Missa ABAJO"
+		},
+		{
+			"offsets": [
+				30,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Missa ARRIBA"
+		},
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "MissaIdle2"
+		},
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MissaIdle2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Missa IZQUIERDA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-78
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missa DERECHA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Navidad_2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

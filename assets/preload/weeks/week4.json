@@ -1,0 +1,59 @@
+{
+	"storyName": "album de missa",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cuadros",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"aqui_estoy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ignt",
+			"missaignt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"determinacion",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pokemon_go",
+			"missapoke",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

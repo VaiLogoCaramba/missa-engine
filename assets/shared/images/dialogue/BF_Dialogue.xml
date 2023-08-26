@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFTalkIdle0000" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkIdle0001" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0000" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0001" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0002" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0003" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0004" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0005" x="20" y="20" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0006" x="467" y="20" width="425" height="400" frameX="-3" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0007" x="467" y="20" width="425" height="400" frameX="-3" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0008" x="917" y="20" width="434" height="409" frameX="-1" frameY="-6" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0009" x="917" y="20" width="434" height="409" frameX="-1" frameY="-6" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0010" x="1376" y="20" width="438" height="414" frameX="0" frameY="-1" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0011" x="1376" y="20" width="438" height="414" frameX="0" frameY="-1" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFTalkLoop0012" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0013" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0014" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0015" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0016" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0017" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0018" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0019" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0020" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0021" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0022" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0023" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0024" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0025" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0026" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0027" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0028" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0029" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0030" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0031" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0032" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0033" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0034" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0035" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0036" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0037" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFTalkLoop0038" x="20" y="459" width="438" height="415"/>
+	<SubTexture name="BFWTFIdle0000" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFIdle0001" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0000" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0001" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0002" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0003" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0004" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0005" x="483" y="459" width="422" height="399" frameX="-4" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0006" x="930" y="459" width="425" height="400" frameX="-3" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0007" x="930" y="459" width="425" height="400" frameX="-3" frameY="-15" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0008" x="1380" y="459" width="434" height="409" frameX="-1" frameY="-6" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0009" x="1380" y="459" width="434" height="409" frameX="-1" frameY="-6" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0010" x="20" y="899" width="438" height="414" frameX="0" frameY="-1" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0011" x="20" y="899" width="438" height="414" frameX="0" frameY="-1" frameWidth="438" frameHeight="415"/>
+	<SubTexture name="BFWTFLoop0012" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0013" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0014" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0015" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0016" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0017" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0018" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0019" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0020" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0021" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0022" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0023" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0024" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0025" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0026" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0027" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0028" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0029" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0030" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0031" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0032" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0033" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0034" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0035" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0036" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0037" x="483" y="899" width="438" height="415"/>
+	<SubTexture name="BFWTFLoop0038" x="483" y="899" width="438" height="415"/>
+</TextureAtlas>
