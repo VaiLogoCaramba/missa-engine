@@ -150,7 +150,7 @@ class FreeplayState2 extends MusicBeatState
 		aqui_estoyText.screenCenter(X);
 		add(aqui_estoyText);
 								
-		igntText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Cancionmar'));
+		igntText = new FlxSprite(650, 270).loadGraphic(Paths.image('freeplay/freeplayText/Cancionmar'));
 		igntText.antialiasing = ClientPrefs.globalAntialiasing;
 		igntText.visible = false;
 		igntText.screenCenter(X);
@@ -162,7 +162,7 @@ class FreeplayState2 extends MusicBeatState
 		determinacionText.screenCenter(X);
 		add(determinacionText);
 								
-		pokemon_goText = new FlxSprite(650, 270).loadGraphic(Paths.image('freeplay/freeplayText/Rapmario3'));
+		pokemon_goText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Rapmario3'));
 		pokemon_goText.antialiasing = ClientPrefs.globalAntialiasing;
 		pokemon_goText.visible = false;
 		pokemon_goText.screenCenter(X);

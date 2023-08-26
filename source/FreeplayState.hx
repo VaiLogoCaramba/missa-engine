@@ -315,7 +315,7 @@ class FreeplayState extends MusicBeatState
 		grape_sodaText.visible = false;
 		add(grape_sodaText);
 
-		nightmare = new FlxSprite(850, 300);
+		nightmare = new FlxSprite(800, 250);
 		nightmare.antialiasing = ClientPrefs.globalAntialiasing;
 		nightmare.frames = Paths.getSparrowAtlas('freeplay/freeplayText/Nightmare');
 		nightmare.antialiasing = ClientPrefs.globalAntialiasing;
