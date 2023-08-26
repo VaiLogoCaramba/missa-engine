@@ -1,16 +1,20 @@
 {
 	"storyName": "nuevo video?",
-	"difficulties": "Hard",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "cuadros",
-	"weekBefore": "week1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "week1",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
 	"songs": [
 		[
 			"lyrics",
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"disco",
-		"missasinfonia",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
 }

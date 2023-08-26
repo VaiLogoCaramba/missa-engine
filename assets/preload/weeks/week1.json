@@ -1,15 +1,21 @@
 {
 	"storyName": "missasinfonia",
-	"difficulties": "Hard",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "cuadros",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
 	"songs": [
 		[
 			"otomatone",
@@ -48,11 +54,5 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"disco",
-		"missasinfonia",
-		""
-	],
-	"hideStoryMode": false,
 	"weekName": "MissaWeek"
 }
