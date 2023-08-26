@@ -53,6 +53,7 @@ class FreeplayState2 extends MusicBeatState
 	var fondo:FlxSprite;
 	var screen:FlxSprite;
 	var disco:FlxSprite;
+	var copyright:FlxText;
 
 	//textos roleplay
 	var aqui_estoyText:FlxSprite;
@@ -178,7 +179,12 @@ class FreeplayState2 extends MusicBeatState
 		otomatone_Vs_StylophoneText.visible = false;
 		otomatone_Vs_StylophoneText.screenCenter(X);
 		add(otomatone_Vs_StylophoneText);
-								
+						
+		copyright = new FlxText(0,0, 0, "ATENCION!!! \n LAS CANCIONES PUEDEN CONTENER COPYRIGHT", 24);
+		copyright.color = FlxColor.RED;
+		copyright.screenCenter(X);
+		add(copyright);
+
 		grpSongs = new FlxTypedGroup<Alphabet>();
 		add(grpSongs);
 
