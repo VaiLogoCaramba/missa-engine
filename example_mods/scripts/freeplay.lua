@@ -1,6 +1,38 @@
---Missa Freeplay
-SongSelected = 0
+-- Thank you so much XooleDev
+-- Pls follow her
+
+------------------SETTINGS
+
+local MaxProductLimit = 10           -------Number of the songs
+
+local SongOne = 'tutorial'           -------Name of the Song One
+local SongTwo = 'bopeebo'            -------Name of the Song Two
+local SongThree = 'fresh'            -------Name of the Song Three
+local SongFour = 'dad-battle'        -------Name of the Song Four
+local SongFive = 'spookeez'          -------Name of the Song Five
+local SongSix = 'south'              -------Name of the Song Six
+local SongSeven = 'monster'          -------Name of the song Seven
+local SongEight = 'pico'             -------Name of the song Eight
+local SongNine = 'philly'            -------Name of the song Nine
+local SongTen = 'blammed'            -------Name of the song Ten
+
+------------------
+
+local CanSelect
+
+SelectAmount = 1
+SelectAmountBack = -1
+
+local MinProductLimit = 1
+
+local ProductSelected
+local ProductPrice
+
 function onCreate()
+	initSaveData('DataFolder', 'Folder')
+	flushSaveData('DataFolder')
+	MoneyAmount = getDataFromSave('DataFolder', 'Money') -- Do NOT Remove Money, unless you're changing all the variables   -- Listen to him 
+
 	if songName == 'soul-selection' then
 		function onStartCountdown() 
 			if not allowCountdown then
@@ -11,323 +43,382 @@ function onCreate()
 				return Function_Continue
 			end
 		end
+		playMusic('freakyMenu', 0.8, true)
 
-    playMusic('freakyMenuFreeplay', 0.8, true)
+		makeLuaSprite('image', 'freeplay/pictures/image1', 165, 272)
+		addLuaSprite('image', true)
+		setScrollFactor('image', 1, 1);
+        setProperty('image.visible', false)
 
-		makeLuaSprite('missa', 'customMenu/Screen/missa', 380, 172)
-        scaleObject('missa',0.9,0.9)
-		addLuaSprite('missa', true)
-		setScrollFactor('missa', 1, 1);
-        setProperty('missa.visible', false)
+		makeLuaSprite('image1', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image1', true)
+		setScrollFactor('image1', 1, 1);
+            setProperty('image1.visible', false)
 
-		makeLuaSprite('Lyrics', 'customMenu/Screen/Lyrics', 365, 152)
-		addLuaSprite('Lyrics', true)
-		setScrollFactor('Lyrics', 1, 1);
-            setProperty('Lyrics.visible', false)
+		makeLuaSprite('image2', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image2', true)
+		setScrollFactor('image2', 1, 1);
+            setProperty('image2.visible', false)
 
-		makeLuaSprite('Billy', 'customMenu/Screen/Billy', 365, 152)
-		addLuaSprite('Billy', true)
-		setScrollFactor('Billy', 1, 1);
-            setProperty('Billy.visible', false)
+          makeLuaSprite('image3', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image3', true)
+		setScrollFactor('image3', 1, 1);
+            setProperty('image3.visible', false)
 
-          makeLuaSprite('Pizza', 'customMenu/Screen/Pizza', 410, 172)
-        scaleObject('Pizza',0.8,0.8)
-		addLuaSprite('Pizza', true)
-		setScrollFactor('Pizza', 1, 1);
-            setProperty('Pizza.visible', false)
+          makeLuaSprite('image4', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image4', true)
+		setScrollFactor('image4', 1, 1);
+            setProperty('image4.visible', false)
 
-          makeLuaSprite('Goodfun', 'customMenu/Screen/Goodfun', 410, 190)
-        scaleObject('Goodfun',0.8,0.8)
-		addLuaSprite('Goodfun', true)
-		setScrollFactor('Goodfun', 1, 1);
-            setProperty('Goodfun.visible', false)
+          makeLuaSprite('image5', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image5', true)
+		setScrollFactor('image5', 1, 1);
+            setProperty('image5.visible', false)
 
-          makeLuaSprite('wizard', 'customMenu/Screen/Wizard', 350, 152)
-		addLuaSprite('wizard', true)
-		setScrollFactor('wizard', 1, 1);
-            setProperty('wizard.visible', false)
+          makeLuaSprite('image6', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image6', true)
+		setScrollFactor('image6', 1, 1);
+            setProperty('image6.visible', false)
 
-          makeLuaSprite('Aqui_estoy', 'customMenu/Screen/aqui-estoy', 410, 190)
-       scaleObject('Aqui_estoy',0.8,0.8)
-		addLuaSprite('Aqui_estoy', true)
-		setScrollFactor('Aqui_estoy', 1, 1);
-            setProperty('Aqui_estoy.visible', false)
+          makeLuaSprite('image7', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image7', true)
+		setScrollFactor('image7', 1, 1);
+            setProperty('image7.visible', false)
 
-          makeLuaSprite('Pokemon_go', 'customMenu/Screen/Pokeball', 390, 160)
-		addLuaSprite('Pokemon_go', true)
-		setScrollFactor('Pokemon_go', 1, 1);
-            setProperty('Pokemon_go.visible', false)
+          makeLuaSprite('image8', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image8', true)
+		setScrollFactor('image8', 1, 1);
+            setProperty('image8.visible', false)
 
-          makeLuaSprite('ignt', 'customMenu/Screen/ignt', 390, 160)
-		addLuaSprite('ignt', true)
-		setScrollFactor('ignt', 1, 1);
-            setProperty('ignt.visible', false)
+          makeLuaSprite('image9', 'freeplay/pictures/image2', 165, 272)
+		addLuaSprite('image9', true)
+		setScrollFactor('image9', 1, 1);
+            setProperty('image9.visible', false)
 
-          makeLuaSprite('Determinacion', 'customMenu/Screen/Determinacion', 390, 160)
-		addLuaSprite('Determinacion', true)
-		setScrollFactor('Determinacion', 1, 1);
-            setProperty('Determinacion.visible', false)
+		makeLuaSprite('song', 'freeplay/songs/tutorial', 750, 340)
+		addLuaSprite('song', true)
+		setScrollFactor('song', 1, 1);
+            setProperty('song.visible', false)
 
-          makeLuaSprite('rap_kirby', 'customMenu/Screen/kirby', 390, 160)
-        addLuaSprite('rap_kirby', true)
-        setScrollFactor('rap_kirby', 1, 1);
-            setProperty('rap_kirby.visible', false)
-
-          makeLuaSprite('Otomatone_Vs_Stylophone', 'customMenu/Screen/OvS', 370, 160)
-        addLuaSprite('Otomatone_Vs_Stylophone', true)
-        setScrollFactor('Otomatone_Vs_Stylophone', 1, 1);
-            setProperty('Otomatone_Vs_Stylophone.visible', false)
-
-        makeAnimatedLuaSprite('Maquinita', 'customMenu/Maquinita', 150, 0)
-        addAnimationByPrefix('Maquinita', 'Maquinita', 'Maquinita', 24, true)
-        addLuaSprite('Maquinita', true)
-
-		makeLuaSprite('song0', 'customMenu/freeplayText/Lyrics', 800, 240)
-		addLuaSprite('song0', true)
-		setScrollFactor('song0', 1, 1);
-            setProperty('song0.visible', false)
-
-		makeLuaSprite('song1', 'customMenu/freeplayText/beepy-style', 800, 170)
+		makeLuaSprite('song1', 'freeplay/songs/bopeebo', 750, 340)
 		addLuaSprite('song1', true)
 		setScrollFactor('song1', 1, 1);
             setProperty('song1.visible', false)
 
-          makeLuaSprite('song2', 'customMenu/freeplayText/rocktime', 800, 240)
+          makeLuaSprite('song2', 'freeplay/songs/fresh', 750, 340)
 		addLuaSprite('song2', true)
 		setScrollFactor('song2', 1, 1);
             setProperty('song2.visible', false)
 
-          makeLuaSprite('song3', 'customMenu/freeplayText/Billy', 800, 170)
+          makeLuaSprite('song3', 'freeplay/songs/dad-battle', 700, 340)
 		addLuaSprite('song3', true)
 		setScrollFactor('song3', 1, 1);
             setProperty('song3.visible', false)
 
-          makeLuaSprite('song4', 'customMenu/freeplayText/Pizza', 800, 240)
+          makeLuaSprite('song4', 'freeplay/songs/spookeez', 700, 340)
 		addLuaSprite('song4', true)
 		setScrollFactor('song4', 1, 1);
             setProperty('song4.visible', false)
 
-          makeLuaSprite('song5', 'customMenu/freeplayText/Goodfun', 800, 240)
+          makeLuaSprite('song5', 'freeplay/songs/south', 750, 340)
 		addLuaSprite('song5', true)
 		setScrollFactor('song5', 1, 1);
             setProperty('song5.visible', false)
 
-          makeLuaSprite('song6', 'customMenu/freeplayText/Wizard', 800, 240)
+          makeLuaSprite('song6', 'freeplay/songs/monster', 750, 340)
 		addLuaSprite('song6', true)
 		setScrollFactor('song6', 1, 1);
             setProperty('song6.visible', false)
 
-          makeLuaSprite('song7', 'customMenu/freeplayText/Aqui-estoy', 800, 240)
+          makeLuaSprite('song7', 'freeplay/songs/pico', 750, 340)
 		addLuaSprite('song7', true)
 		setScrollFactor('song7', 1, 1);
             setProperty('song7.visible', false)
 
-          makeLuaSprite('song8', 'customMenu/freeplayText/IGNT', 800, 170)
+          makeLuaSprite('song8', 'freeplay/songs/philly', 770, 340)
 		addLuaSprite('song8', true)
 		setScrollFactor('song8', 1, 1);
             setProperty('song8.visible', false)
 
-          makeLuaSprite('song9', 'customMenu/freeplayText/Determinacion', 800, 240)
+          makeLuaSprite('song9', 'freeplay/songs/blammed', 750, 340)
 		addLuaSprite('song9', true)
 		setScrollFactor('song9', 1, 1);
             setProperty('song9.visible', false)
 
-          makeLuaSprite('song10', 'customMenu/freeplayText/Pokemon_go', 800, 240)
-        addLuaSprite('song10', true)
-        setScrollFactor('song10', 1, 1);
-            setProperty('song10.visible', false)
-
-          makeLuaSprite('song11', 'customMenu/freeplayText/rap_kirby', 800, 170)
-        addLuaSprite('song11', true)
-        setScrollFactor('song11', 1, 1);
-            setProperty('song11.visible', false)
-
-          makeLuaSprite('song12', 'customMenu/freeplayText/Ovs', 800, 170)
-        addLuaSprite('song12', true)
-        setScrollFactor('song12', 1, 1);
-            setProperty('song12.visible', false)
-
-          makeLuaSprite('song13', 'customMenu/freeplayText/Grape-soda', 800, 240)
-        addLuaSprite('song13', true)
-        setScrollFactor('song13', 1, 1);
-            setProperty('song13.visible', false)
-
-          makeAnimatedLuaSprite('song14', 'customMenu/freeplayText/Nightmare', 950, 205)
-          addAnimationByPrefix('song14','Nightmare','Nightmare',24,true)
-          scaleObject('song14',1.5,1.5)
-        addLuaSprite('song14', true)
-        setScrollFactor('song14', 1, 1);
-            setProperty('song14.visible', false)
+		ProductSelected = 0
 
 		return Function_Continue;
 	end
 end
+
 function onUpdate()
-  if songName == 'soul-selection' then
-      
-    onChangeSong()
-    if keyJustPressed("up") then
-      if SongSelected > 0 then
-        SongSelected = SongSelected - 1
-        playSound("scrollMenu", 1)
-        onChangeSong()
-      elseif SongSelected == 0 then
-        SongSelected = 14
-        playSound("scrollMenu", 1)
-        onChangeSong()
+	if songName == 'soul-selection' then
+              if keyJustPressed('pause') then
+			exitMenu()
+              end
+
+		if keyboardJustPressed('SPACE') then
+				playSound('play');
+		end
+
+		if keyboardJustPressed('UP') or keyboardJustPressed('DOWN') then
+
+			if ProductSelected >= MaxProductLimit and keyboardJustPressed('DOWN') then
+				ProductSelected = 1
+			elseif ProductSelected <= MinProductLimit and keyboardJustPressed('UP') then
+				ProductSelected = 10
+			else
+				if keyboardJustPressed('DOWN') then
+					ProductSelected = ProductSelected + 1
+				end
+				if keyboardJustPressed('UP') then
+					ProductSelected = ProductSelected - 1
+				end
+			end
+			if ProductSelected == 1 then
+                        setProperty('song.visible', true)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', true)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                  elseif ProductSelected == 2 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', true)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', true)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 3 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', true)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', true)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 4 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', true)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', true)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 5 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', true)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', true)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 6 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', true)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', true)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 7 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', true)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', true)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 8 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', true)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', true)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 9 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', true)
+                        setProperty('song9.visible', false)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', true)
+                        setProperty('image9.visible', false)
+                 elseif ProductSelected == 10 then
+                        setProperty('song.visible', false)
+                        setProperty('song1.visible', false)
+                        setProperty('song2.visible', false)
+                        setProperty('song3.visible', false)
+                        setProperty('song4.visible', false)
+                        setProperty('song5.visible', false)
+                        setProperty('song6.visible', false)
+                        setProperty('song7.visible', false)
+                        setProperty('song8.visible', false)
+                        setProperty('song9.visible', true)
+                        setProperty('image.visible', false)
+                        setProperty('image1.visible', false)
+                        setProperty('image2.visible', false)
+                        setProperty('image3.visible', false)
+                        setProperty('image4.visible', false)
+                        setProperty('image5.visible', false)
+                        setProperty('image6.visible', false)
+                        setProperty('image7.visible', false)
+                        setProperty('image8.visible', false)
+                        setProperty('image9.visible', true)
+			end
+			removeLuaSprite('selectIcon')
+			playSound('select');
+		end
+		if ProductSelected == 1 and keyboardJustPressed('SPACE') then
+                    loadSong(SongOne);
+            elseif ProductSelected == 2 and keyboardJustPressed('SPACE') then
+                    loadSong(SongTwo);
+            elseif ProductSelected == 3 and keyboardJustPressed('SPACE') then
+                    loadSong(SongThree);
+            elseif ProductSelected == 4 and keyboardJustPressed('SPACE') then
+                    loadSong(SongFour);
+            elseif ProductSelected == 5 and keyboardJustPressed('SPACE') then
+                    loadSong(SongFive);
+            elseif ProductSelected == 6 and keyboardJustPressed('SPACE') then
+                    loadSong(SongSix);
+            elseif ProductSelected == 7 and keyboardJustPressed('SPACE') then
+                    loadSong(SongSeven);
+            elseif ProductSelected == 8 and keyboardJustPressed('SPACE') then
+                    loadSong(SongEight);
+            elseif ProductSelected == 9 and keyboardJustPressed('SPACE') then
+                    loadSong(SongNine);
+            elseif ProductSelected == 10 and keyboardJustPressed('SPACE') then
+                    loadSong(SongTen);
+		  end
+          end
       end
-    end
-    if keyJustPressed("down") then
-      if SongSelected < 14 then
-        SongSelected = SongSelected + 1
-        playSound("scrollMenu", 1)
-        onChangeSong()
-      elseif SongSelected == 14 then
-        SongSelected = 0
-        playSound("scrollMenu", 1)
-        onChangeSong()
-    end
-  end
-  end
-  if keyJustPressed("back") then
-    exitSong(false)
-  end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+	if keyJustPressed('pause') and songName == 'soul-selection' then
+		exitMenu();
+	end
 end
-function onChangeSong()
-  --SongSelected
-  setProperty('song0.visible', false)
-  setProperty('song1.visible', false)
-  setProperty('song2.visible', false)
-  setProperty('song3.visible', false)
-  setProperty('song4.visible', false)
-  setProperty('song5.visible', false)
-  setProperty('song6.visible', false)
-  setProperty('song7.visible', false)
-  setProperty('song8.visible', false)
-  setProperty('song9.visible', false)
-  setProperty('song10.visible', false)
-  setProperty('song11.visible', false)
-  setProperty('song12.visible', false)
-  setProperty('song13.visible', false)
-  setProperty('song14.visible', false)
-  --ImagenSelected
-  setProperty('Lyrics.visible', false)
-  setProperty('missa.visible', false)
-  setProperty('Billy.visible', false)
-  setProperty('Pizza.visible', false)
-  setProperty('Goodfun.visible', false)
-  setProperty('wizard.visible', false)
-  setProperty('Aqui_estoy.visible', false)
-  setProperty('ignt.visible', false)
-  setProperty('Determinacion.visible', false)
-  setProperty('Pokemon_go.visible', false)
-  setProperty('Otomatone_Vs_Stylophone.visible', false)
-  setProperty('rap_kirby.visible', false)
-  if SongSelected == 0 then
-    setProperty('song0.visible', true)
-    setProperty('Lyrics.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Lyrics", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 1 then
-    setProperty('song1.visible', true)
-    setProperty('missa.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("beepy_style", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 2 then
-    setProperty('song2.visible', true)
-    setProperty('missa.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("rocktime", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 3 then
-    setProperty('song3.visible', true)
-    setProperty('Billy.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Billy", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 4 then
-    setProperty('song4.visible', true)
-    setProperty('Pizza.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Pizza", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 5 then
-    setProperty('song5.visible', true)
-    setProperty('Goodfun.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Goodfun", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 6 then
-    setProperty('song6.visible', true)
-    setProperty('wizard.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("wizard", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 7 then
-    setProperty('song7.visible', true)
-    setProperty('missa.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Aqui_estoy", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 8 then
-    setProperty('song8.visible', true)
-    setProperty('ignt.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("ignt", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 9 then
-    setProperty('song9.visible', true)
-    setProperty('Determinacion.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Determinacion", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 10 then
-    setProperty('song10.visible', true)
-    setProperty('Pokemon_go.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Pokemon_go", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 11 then
-    setProperty('song11.visible', true)
-    setProperty('rap_kirby.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("rap_kirby", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 12 then
-    setProperty('song12.visible', true)
-    setProperty('Otomatone_Vs_Stylophone.visible', true)
 
-    if keyJustPressed("accept") then
-      loadSong("Otomatone_Vs_Stylophone", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 13 then
-    setProperty('song13.visible', true)
-    setProperty('Goodfun.visible', true)
-
-    if keyJustPressed("accept") then
-      loadSong("Grape_soda", -1)
-      playSound("confirmMenu", 1)
-    end
-  elseif SongSelected == 14 then
-    setProperty('song14.visible', true)
-    if keyJustPressed("accept") then
-      loadSong("Nightmare", -1)
-      playSound("confirmMenu", 1)
-    end
-  end
+function exitMenu()
+	exitSong(true);
 end

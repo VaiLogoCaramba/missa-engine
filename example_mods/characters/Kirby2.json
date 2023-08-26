@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				43,
+				-578
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KirbyIdle"
+		},
+		{
+			"offsets": [
+				23,
+				-587
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KirbyDOWN NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-564
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KirbyUP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-587
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "KirbyDOWN MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-565
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "KirbyUP MISS"
+		},
+		{
+			"offsets": [
+				298,
+				-501
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "QuienSos",
+			"indices": [],
+			"name": "SOY DEE"
+		},
+		{
+			"offsets": [
+				45,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KirbyRIGHT NOTE"
+		},
+		{
+			"offsets": [
+				34,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KirbyLEFT NOTE"
+		},
+		{
+			"offsets": [
+				49,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "KirbyRIGHT MISS"
+		},
+		{
+			"offsets": [
+				32,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "KirbyLEFT MISS"
+		},
+		{
+			"offsets": [
+				881,
+				-348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Carrera",
+			"indices": [],
+			"name": "Carrera"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kirby2",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "kirby",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		160,
+		200
+	],
+	"camera_position": [
+		430,
+		470
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

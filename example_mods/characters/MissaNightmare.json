@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				490,
 				-25
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Missa Nightmare LEFT"
+			"fps": 24,
+			"name": "Missa Nightmare LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				123,
 				-68
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Missa Nightmare RIGHT"
+			"fps": 24,
+			"name": "Missa Nightmare RIGHT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				146,
 				149
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Missa Nightmare UP"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				100,
-				-123
-			],
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Missa Nightmare DOW",
+			"name": "Missa Nightmare UP",
 			"indices": []
 		},
 		{
 			"offsets": [
+				100,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Missa Nightmare DOW"
+		},
+		{
+			"loop": true,
+			"offsets": [
 				107,
+				-29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Missa Nightmare Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				247,
 				-29
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "Missa Nightmare Idle"
+			"anim": "Scream",
+			"loop": false,
+			"name": "Missa Nightmare Scream"
 		}
 	],
 	"no_antialiasing": false,

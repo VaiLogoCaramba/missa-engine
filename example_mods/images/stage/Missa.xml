@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Missa.png">
+<SubTexture name="Missa Idle0000" x="0" y="0" width="19" height="30" frameX="-87" frameY="-65" frameWidth="190" frameHeight="152" />
+<SubTexture name="Missa Idle0001" x="19" y="0" width="19" height="29" frameX="-87" frameY="-66" frameWidth="190" frameHeight="152" />
+</TextureAtlas>

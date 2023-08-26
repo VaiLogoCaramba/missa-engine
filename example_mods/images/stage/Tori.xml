@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tori.png">
+<SubTexture name="Tori Idle0000" x="0" y="0" width="41" height="52" frameX="-65" frameY="-43" frameWidth="190" frameHeight="152" />
+<SubTexture name="Tori Idle0001" x="41" y="0" width="44" height="51" frameX="-62" frameY="-44" frameWidth="190" frameHeight="152" />
+<SubTexture name="Tori Idle0002" x="0" y="0" width="41" height="52" frameX="-65" frameY="-43" frameWidth="190" frameHeight="152" />
+<SubTexture name="Tori Idle0003" x="85" y="0" width="44" height="51" frameX="-62" frameY="-44" frameWidth="190" frameHeight="152" />
+</TextureAtlas>

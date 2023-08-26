@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				177,
 				-176
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Mago DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mago DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				253,
 				-76
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Mago LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mago LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				49,
 				-62
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Mago RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mago RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				281,
 				-4
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Mago UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mago UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				110,
 				-68
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Mago Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Mago Idle"
+		},
+		{
+			"offsets": [
+				197,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "modchart",
+			"loop": false,
+			"name": "Mago Modchart"
 		}
 	],
 	"no_antialiasing": false,

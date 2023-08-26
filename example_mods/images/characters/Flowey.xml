@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flowey.png">
+<SubTexture name="Flowey Idle0000" x="127" y="45" width="42" height="44" frameX="-74" frameY="-54" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Idle0001" x="0" y="95" width="43" height="42" frameX="-73" frameY="-56" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Idle0002" x="85" y="48" width="42" height="43" frameX="-74" frameY="-55" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Idle0003" x="85" y="48" width="42" height="43" frameX="-74" frameY="-55" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Idle0004" x="127" y="45" width="42" height="44" frameX="-74" frameY="-54" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Idle0005" x="127" y="45" width="42" height="44" frameX="-74" frameY="-54" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Up0000" x="43" y="48" width="42" height="46" frameX="-74" frameY="-52" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Up0001" x="85" y="0" width="42" height="47" frameX="-74" frameY="-51" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Up0002" x="0" y="0" width="42" height="48" frameX="-74" frameY="-50" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Up0003" x="85" y="0" width="42" height="47" frameX="-74" frameY="-51" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Left0000" x="43" y="95" width="42" height="42" frameX="-79" frameY="-56" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Left0001" x="85" y="95" width="42" height="41" frameX="-80" frameY="-57" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Left0002" x="127" y="95" width="42" height="39" frameX="-81" frameY="-59" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Left0003" x="85" y="95" width="42" height="41" frameX="-80" frameY="-57" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Rigth0000" x="170" y="0" width="44" height="38" frameX="-66" frameY="-60" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Rigth0001" x="170" y="38" width="44" height="37" frameX="-65" frameY="-61" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Rigth0002" x="41" y="137" width="44" height="35" frameX="-64" frameY="-63" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Rigth0003" x="170" y="38" width="44" height="37" frameX="-65" frameY="-61" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Down0000" x="170" y="75" width="41" height="37" frameX="-74" frameY="-62" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Down0001" x="0" y="137" width="41" height="36" frameX="-74" frameY="-63" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Down0002" x="85" y="137" width="41" height="34" frameX="-74" frameY="-65" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey Down0003" x="0" y="137" width="41" height="36" frameX="-74" frameY="-63" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey risa0000" x="127" y="0" width="43" height="45" frameX="-73" frameY="-53" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey risa0001" x="0" y="48" width="43" height="47" frameX="-73" frameY="-51" frameWidth="201" frameHeight="167" />
+<SubTexture name="Flowey risa0002" x="42" y="0" width="43" height="48" frameX="-73" frameY="-50" frameWidth="201" frameHeight="167" />
+</TextureAtlas>

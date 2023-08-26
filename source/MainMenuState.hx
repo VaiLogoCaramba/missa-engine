@@ -147,12 +147,12 @@ class MainMenuState extends MusicBeatState
 		add(char2);
 		char2.visible = false;
 
-		char3 = new Character(550,50, 'youtube', true);
+		char3 = new Character(550,100, 'youtube', true);
         char3.setGraphicSize (Std.int(char3.width * 0.7 ));
 		add(char3);
 		char3.visible = false;
 
-		char4 = new Character(670,150, 'LogoCredits', true);
+		char4 = new Character(670,0, 'LogoCredits', true);
         char4.setGraphicSize (Std.int(char4.width * 0.6 ));
 		add(char4);
 		char4.visible = false;
@@ -171,8 +171,8 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.mouse.visible = true;
 		//tienen que crear el objeto primero
-		disco = new FlxSprite(1200, 0);
-		disco.frames = Paths.getSparrowAtlas('mainmenu/Disco');
+		disco = new FlxSprite(1200, 500);
+		disco.frames = Paths.getSparrowAtlas('mainmenu/AlbumDisco');
 		disco.antialiasing = ClientPrefs.globalAntialiasing;
 		disco.animation.addByPrefix('DiscoIdle', 'disco instance', 24, true);
 		add(disco);
@@ -182,7 +182,7 @@ class MainMenuState extends MusicBeatState
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Friday Night Funkin' v" + Application.current.meta.get('version'), 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Missa Engine v" + Application.current.meta.get('version'), 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);

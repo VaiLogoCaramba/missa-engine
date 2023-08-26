@@ -103,9 +103,9 @@ class FreeplayState2 extends MusicBeatState
 		}
 		WeekData.loadTheFirstEnabledMod();
 		addSong('Aqui_estoy', 0, 'pene', 0xFF000000);
-		addSong('ignt', 0, 'pene', 0xFF000000);
+		addSong('Cancion_al_mar', 0, 'pene', 0xFF000000);
 		addSong('Determinacion', 0, 'pene', 0xFF000000);
-		addSong('Pokemon_go', 0, 'pene', 0xFF000000);
+		addSong('Rap_mario_3', 0, 'pene', 0xFF000000);
 		addSong('rap_kirby', 0, 'pene', 0xFF000000);
 		addSong('Otomatone_Vs_Stylophone', 0, 'pene', 0xFF000000);
 
@@ -150,7 +150,7 @@ class FreeplayState2 extends MusicBeatState
 		aqui_estoyText.screenCenter(X);
 		add(aqui_estoyText);
 								
-		igntText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/IGNT'));
+		igntText = new FlxSprite(650, 270).loadGraphic(Paths.image('freeplay/freeplayText/Cancionmar'));
 		igntText.antialiasing = ClientPrefs.globalAntialiasing;
 		igntText.visible = false;
 		igntText.screenCenter(X);
@@ -162,7 +162,7 @@ class FreeplayState2 extends MusicBeatState
 		determinacionText.screenCenter(X);
 		add(determinacionText);
 								
-		pokemon_goText = new FlxSprite(650, 270).loadGraphic(Paths.image('freeplay/freeplayText/Pokemon_go'));
+		pokemon_goText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Rapmario3'));
 		pokemon_goText.antialiasing = ClientPrefs.globalAntialiasing;
 		pokemon_goText.visible = false;
 		pokemon_goText.screenCenter(X);
