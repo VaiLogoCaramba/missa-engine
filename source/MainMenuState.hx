@@ -152,7 +152,7 @@ class MainMenuState extends MusicBeatState
 		add(char3);
 		char3.visible = false;
 
-		char4 = new Character(670,0, 'LogoCredits', true);
+		char4 = new Character(670,-50, 'LogoCredits', true);
         char4.setGraphicSize (Std.int(char4.width * 0.6 ));
 		add(char4);
 		char4.visible = false;

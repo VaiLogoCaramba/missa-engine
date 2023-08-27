@@ -1,8 +1,8 @@
 musico = 'artist'
 el3tricksong = {'Goodfun', 'Nightmare'}
 fadesong = {'Lyrics', 'Rocktime'}
-missasong = {'Aqui_estoy', 'cuarentena', 'cancion_china', 'oaxaca', 'otomatone', 'Determinacion', 'Cancion_al_mar', 'Rap_mario_3', 'rap_kirby'}
-dontplay = {'march', 'true-trolling','beepy_style'}
+missasong = {'Aqui_estoy', 'cuarentena', 'cancion_china', 'oaxaca', 'otomatone', 'Determinacion', 'ignt', 'missa_langosta', 'Pokemon_go', 'rap_kirby'}
+dontplay = {'march', 'true-trolling'}
 
 function onCreatePost()
     if songName ~= nil then
@@ -62,7 +62,7 @@ function onStepHit()
         doTweenX('aw', 'musicBar', 600, 2, 'sineOut')
         doTweenX('wa', 'musicText', 700, 2, 'sineOut')
     end
-    -- Lo copié de Indie Cross Art, jajaja
+    -- Lo copie de Indie Cross Art, jajaja
     if curStep == 35 then
         doTweenX('aw', 'musicBar', 2000, 2, 'sineIn')
         doTweenX('wa', 'musicText', 2050, 2, 'sineIn')
