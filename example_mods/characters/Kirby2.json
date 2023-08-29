@@ -1,125 +1,136 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				43,
 				-578
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "KirbyIdle"
+			"fps": 24,
+			"name": "KirbyIdle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				23,
 				-587
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "KirbyDOWN NOTE"
+			"fps": 24,
+			"name": "KirbyDOWN NOTE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-564
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "KirbyUP NOTE"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				30,
-				-587
-			],
-			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "KirbyDOWN MISS",
+			"name": "KirbyUP NOTE",
 			"indices": []
 		},
 		{
 			"offsets": [
-				11,
-				-565
+				30,
+				-587
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUPmiss",
+			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "KirbyUP MISS"
+			"name": "KirbyDOWN MISS"
 		},
 		{
+			"loop": false,
+			"offsets": [
+				11,
+				-565
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "KirbyUP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				298,
 				-501
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "QuienSos",
-			"indices": [],
-			"name": "SOY DEE"
+			"fps": 24,
+			"name": "SOY DEE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				45,
 				-586
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "KirbyRIGHT NOTE"
+			"fps": 24,
+			"name": "KirbyRIGHT NOTE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				34,
 				-586
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "KirbyLEFT NOTE"
+			"fps": 24,
+			"name": "KirbyLEFT NOTE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				49,
 				-586
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "KirbyRIGHT MISS"
+			"fps": 24,
+			"name": "KirbyRIGHT MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				32,
 				-586
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "KirbyLEFT MISS"
+			"fps": 24,
+			"name": "KirbyLEFT MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				881,
 				-348
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Carrera",
+			"fps": 24,
+			"name": "Carrera",
+			"indices": []
+		},
+		{
+			"offsets": [
+				299,
+				-295
+			],
 			"indices": [],
-			"name": "Carrera"
+			"fps": 24,
+			"anim": "sigue",
+			"loop": false,
+			"name": "El que sigue"
 		}
 	],
 	"no_antialiasing": false,

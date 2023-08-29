@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="button1.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="1basic instance 10000" x="20" y="20" width="776" height="238"/>
-	<SubTexture name="1white instance 10000" x="20" y="283" width="776" height="238"/>
-</TextureAtlas>

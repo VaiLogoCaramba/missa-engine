@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				147,
+				-400
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dedede Idle"
+		},
+		{
+			"offsets": [
+				181,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dedede LEFT"
+		},
+		{
+			"offsets": [
+				103,
+				-413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dedede RIGHT"
+		},
+		{
+			"offsets": [
+				121,
+				-431
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dedede DOWN"
+		},
+		{
+			"offsets": [
+				119,
+				-376
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dedede UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				147,
+				-393
+			],
+			"anim": "soy",
+			"fps": 24,
+			"name": "Dedede Soy Dedede",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dedede",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "dee",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		200
+	],
+	"camera_position": [
+		-50,
+		500
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

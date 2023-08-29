@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dedede.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dedede DOWN0000" x="5" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0001" x="5" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0002" x="296" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0003" x="296" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0004" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0005" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0006" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0007" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0008" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0009" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0010" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0011" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0012" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede DOWN0013" x="587" y="5" width="286" height="336"/>
+	<SubTexture name="Dedede Idle0000" x="878" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0001" x="878" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0002" x="1182" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0003" x="1182" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0004" x="1486" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0005" x="1486" y="5" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0006" x="5" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0007" x="5" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0008" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0009" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0010" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0011" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0012" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede Idle0013" x="309" y="377" width="299" height="367"/>
+	<SubTexture name="Dedede LEFT0000" x="613" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0001" x="613" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0002" x="934" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0003" x="934" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0004" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0005" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0006" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0007" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0008" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0009" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0010" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0011" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0012" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede LEFT0013" x="1255" y="377" width="316" height="367"/>
+	<SubTexture name="Dedede RIGHT0000" x="1576" y="377" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0001" x="1576" y="377" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0002" x="5" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0003" x="5" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0004" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0005" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0006" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0007" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0008" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0009" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0010" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0011" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0012" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede RIGHT0013" x="454" y="749" width="444" height="355"/>
+	<SubTexture name="Dedede Soy Dedede0000" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0001" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0002" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0003" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0004" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0005" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0006" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0007" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0008" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0009" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0010" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0011" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0012" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0013" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0014" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0015" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0016" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0017" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0018" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0019" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0020" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0021" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0022" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0023" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0024" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0025" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0026" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0027" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0028" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0029" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0030" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0031" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0032" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0033" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0034" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0035" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0036" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0037" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0038" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0039" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0040" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0041" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0042" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0043" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0044" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0045" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0046" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0047" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0048" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0049" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0050" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0051" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0052" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0053" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0054" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0055" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0056" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0057" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0058" x="1204" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0059" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0060" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0061" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0062" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0063" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0064" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0065" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0066" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0067" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0068" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0069" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0070" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0071" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0072" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0073" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0074" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0075" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0076" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0077" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0078" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0079" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0080" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0081" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0082" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0083" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0084" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0085" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0086" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0087" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0088" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0089" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0090" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0091" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0092" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0093" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0094" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0095" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0096" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0097" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0098" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0099" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0100" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0101" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0102" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0103" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0104" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0105" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0106" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0107" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0108" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0109" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0110" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0111" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0112" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0113" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0114" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0115" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0116" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0117" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0118" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0119" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0120" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0121" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0122" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0123" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0124" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0125" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0126" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0127" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0128" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0129" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0130" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0131" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0132" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0133" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0134" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0135" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0136" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0137" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0138" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0139" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0140" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0141" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0142" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0143" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0144" x="903" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0145" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0146" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0147" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0148" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0149" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0150" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0151" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0152" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0153" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0154" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0155" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0156" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0157" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0158" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0159" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0160" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0161" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0162" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0163" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0164" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0165" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0166" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0167" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0168" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0169" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0170" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0171" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0172" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0173" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0174" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0175" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0176" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0177" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0178" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0179" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0180" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0181" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0182" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0183" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0184" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0185" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0186" x="5" y="1128" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0187" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0188" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0189" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0190" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0191" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0192" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0193" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0194" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0195" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0196" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede Soy Dedede0197" x="1505" y="749" width="296" height="374"/>
+	<SubTexture name="Dedede UP0000" x="306" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0001" x="306" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0002" x="658" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0003" x="658" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0004" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0005" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0006" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0007" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0008" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0009" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0010" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0011" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0012" x="1010" y="1128" width="347" height="390"/>
+	<SubTexture name="Dedede UP0013" x="1010" y="1128" width="347" height="390"/>
+</TextureAtlas>

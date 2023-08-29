@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				287,
+				-480
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				278,
+				-425
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MK LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				-480
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MK RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-480
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MK DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				-362
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MK UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				410,
+				120
+			],
+			"anim": "explosion",
+			"fps": 24,
+			"name": "MK explosion",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MK",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "MK",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		12,
+		189
+	],
+	"camera_position": [
+		-130,
+		560
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

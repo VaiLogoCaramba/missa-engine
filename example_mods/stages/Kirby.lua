@@ -2,7 +2,7 @@ function onCreate()
 
     -- Object --
     luaDebugMode = true
-    makeLuaSprite('fondo', 'FondoKirby/Cielo', -200, -250)
+    makeLuaSprite('fondo', 'FondoKirby/Cielo', 0, -250)
     setGraphicSize('fondo',getProperty('fondo.width') * 0.9)
 
     makeLuaSprite('MontanasFondo', 'FondoKirby/MontanasFondo', 0, 250)
@@ -26,29 +26,50 @@ function onCreate()
 end
 
 function onStepHit()
-    if curStep == 450 then
+    if curStep == 406 then
         triggerEvent('Play Animation','morir','bf')
     end
-    if curStep == 591 then
+    if curStep == 532 then
         triggerEvent('Play Animation','doctorado','bf')
     end
-    if curStep == 643 then
+    if curStep == 580 then
         triggerEvent('Play Animation','Anim','bf')
     end
-    if curStep == 700 then
+    if curStep == 689 then
+        triggerEvent('Play Animation','soy','dad')
+    end
+    if curStep == 632 then
         triggerEvent('Play Animation','comer','bf')
     end
-    if curStep == 725 then
+    if curStep == 644 then
         triggerEvent('Change Character', 'bf', 'Kirby2')
     end
-    if curStep == 750 then
+    if curStep == 676 then
         triggerEvent('Play Animation','QuienSos','bf')
     end
-    if curStep == 968 then
+    if curStep == 872 then
         triggerEvent('Play Animation','Carrera','bf')
     end
-    if curStep == 1121 then
-        triggerEvent('Change Character', 'bf', 'Kirby')
+    if curStep == 1106 then
+        triggerEvent('Change Character', 'dad', 'MK')
+    end
+    if curStep == 1139 then
+        triggerEvent('Play Animation','sigue','bf')
+    end
+    if curStep == 1146 then
+        triggerEvent('Play Animation','explosion','MK')
+    end
+    if curStep == 872 then
+    	setProperty('dad.visible', false)
+    end
+    if curStep == 1154 then
+    	setProperty('dad.visible', false)
+    end
+    if curStep == 1106 then
+    	setProperty('dad.visible', true)
+    end
+    if curStep == 644 then
+    	setProperty('dad.visible', true)
     end
 
 
