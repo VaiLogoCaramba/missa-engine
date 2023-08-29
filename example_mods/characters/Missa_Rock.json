@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				206,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MissaIdle"
+		},
+		{
+			"offsets": [
+				277,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Missa IZQUIERDA"
+		},
+		{
+			"offsets": [
+				148,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Missa DERECHA"
+		},
+		{
+			"offsets": [
+				214,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Missa ABAJO"
+		},
+		{
+			"offsets": [
+				234,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Missa ARRIBA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Rock",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-70,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

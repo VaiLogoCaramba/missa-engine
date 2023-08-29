@@ -11,7 +11,7 @@ function onCreate()
     makeLuaSprite('Montanas', 'FondoKirby/Montanas', 500, -300)
     setGraphicSize('Montanas',getProperty('Montanas.width') * 0.9)
 
-    makeLuaSprite('Sus', 'FondoKirby/Sus', -150, -350)
+    makeLuaSprite('Sus', 'FondoKirby/Sus', -100, -350)
     setGraphicSize('Sus',getProperty('Sus.width') * 0.9)
 
     makeLuaSprite('Piso', 'FondoKirby/Piso', 0, 350)
@@ -59,7 +59,7 @@ function onStepHit()
     if curStep == 1146 then
         triggerEvent('Play Animation','explosion','MK')
     end
-    if curStep == 872 then
+    if curStep == 875 then
     	setProperty('dad.visible', false)
     end
     if curStep == 1154 then

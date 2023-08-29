@@ -125,15 +125,15 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 		WeekData.loadTheFirstEnabledMod();
-		addSong('Lyrics', 0, 'pene', 0xFF000000);
-		addSong('beepy_style', 0, 'pene', 0xFF000000);
-		addSong('rocktime', 0, 'pene', 0xFF000000);
-		addSong('Billy', 0, 'pene', 0xFF000000);
+		addSong('Lyrics', 0, 'no', 0xFF000000);
+		addSong('beepy_style', 0, 'hay', 0xFF000000);
+		addSong('rock_time', 0, 'icons', 0xFF000000);
+		addSong('Billy', 0, 'asi que', 0xFF000000);
 		addSong('Pizza', 0, 'pene', 0xFF000000);
 		addSong('Goodfun', 0, 'pene', 0xFF000000);
 		addSong('wizard', 0, 'pene', 0xFF000000);
 		addSong('Grape_soda', 0, 'pene', 0xFF000000);
-		addSong('Nightmare', 0, 'pene', 0xFF000000);
+		addSong('Cursed_Symphony', 0, 'pene', 0xFF000000);
 
 		/*		//KIND OF BROKEN NOW AND ALSO PRETTY USELESS//
 

@@ -1,5 +1,5 @@
 musico = 'artist'
-el3tricksong = {'Goodfun' , 'Nightmare'}
+el3tricksong = {'Goodfun' , 'Cursed_Symphony'}
 fadesong = {'Lyrics' , 'Rocktime'}
 missasong = {'Aqui_estoy' , 'cuarentena' , 'cancion_china' , 'oaxaca' , 'otomatone' , 'determinacion' , 'Cancion_al_Mar', 'Rap_Mario_3' , 'rap_kirby'}
 dontplay = {'march' , 'true-trolling'}
