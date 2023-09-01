@@ -20,7 +20,7 @@ function onCreate()
     addLuaSprite('tableta', false)
     addLuaSprite('tele', false)
 
-    if songName == 'Goodfun'  then
+    if songName == 'Goodfun' or songName == 'Grape_soda' then
         makeLuaSprite('fondo2', 'MissalaNEON/FONDO', -600, -250)
         setGraphicSize('fondo2',getProperty('fondo2.width') * 0.9)
 
