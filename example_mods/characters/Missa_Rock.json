@@ -1,59 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				206,
 				-71
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "MissaIdle"
+			"fps": 24,
+			"name": "MissaIdle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				277,
-				-72
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				274,
+				-73
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Missa IZQUIERDA"
+			"fps": 24,
+			"name": "Missa IZQUIERDA",
+			"indices": []
 		},
 		{
-			"offsets": [
-				148,
-				-70
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				152,
+				-71
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Missa DERECHA"
+			"fps": 24,
+			"name": "Missa DERECHA",
+			"indices": []
 		},
 		{
-			"offsets": [
-				214,
-				-110
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				212,
+				-108
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Missa ABAJO"
+			"fps": 24,
+			"name": "Missa ABAJO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				-66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Missa ARRIBA",
+			"indices": []
 		},
 		{
 			"offsets": [
-				234,
-				-65
+				268,
+				-71
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "Missa ARRIBA"
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Missa alt-IZQUIERDA"
+		},
+		{
+			"offsets": [
+				190,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Missa alt-DERECHA"
+		},
+		{
+			"offsets": [
+				212,
+				-108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Missa alt-ABAJO"
+		},
+		{
+			"offsets": [
+				238,
+				-64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Missa alt-ARRIBA"
 		}
 	],
 	"no_antialiasing": false,

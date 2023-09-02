@@ -132,6 +132,7 @@ class FreeplayState extends MusicBeatState
 		addSong('Pizza', 0, 'pene', 0xFF000000);
 		addSong('Goodfun', 0, 'pene', 0xFF000000);
 		addSong('wizard', 0, 'pene', 0xFF000000);
+		addSong('firulais', 0, 'pene', 0xFF000000);
 		addSong('Grape_soda', 0, 'pene', 0xFF000000);
 		addSong('Cursed_Symphony', 0, 'pene', 0xFF000000);
 
