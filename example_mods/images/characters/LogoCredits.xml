@@ -2,5 +2,18 @@
 <TextureAtlas imagePath="LogoCredits.png">
 	<!-- Created with Adobe Animate version 19.2.1.408 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="CreditsLogo0000" x="5" y="5" width="837" height="1149"/>
+	<SubTexture name="CreditsLogo0000" x="5" y="5" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0001" x="5" y="5" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0002" x="859" y="5" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0003" x="859" y="5" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0004" x="5" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0005" x="5" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0006" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0007" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0008" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0009" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0010" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0011" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0012" x="859" y="1159" width="849" height="1149"/>
+	<SubTexture name="CreditsLogo0013" x="859" y="1159" width="849" height="1149"/>
 </TextureAtlas>

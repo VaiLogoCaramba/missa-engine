@@ -52,7 +52,7 @@ class FreeplayState2 extends MusicBeatState
 
 	var fondo:FlxSprite;
 	var screen:FlxSprite;
-	var disco:FlxSprite;
+	var Album:FlxSprite;
 	var copyright:FlxText;
 
 	//textos roleplay
@@ -134,14 +134,14 @@ class FreeplayState2 extends MusicBeatState
 
 		add(fondo);
 
-		disco = new FlxSprite();
-		disco.frames = Paths.getSparrowAtlas('mainmenu/Disco');
-		disco.antialiasing = ClientPrefs.globalAntialiasing;
-		disco.animation.addByPrefix('Disco', 'disco instance', 24, true);
-		disco.animation.play('Disco');
-		disco.screenCenter();
+		Album = new FlxSprite();
+		Album.frames = Paths.getSparrowAtlas('mainmenu/Album');
+		Album.antialiasing = ClientPrefs.globalAntialiasing;
+		Album.animation.addByPrefix('Album', 'cosa instance', 24, true);
+		Album.animation.play('Album');
+		Album.screenCenter();
 
-		add(disco);
+		add(Album);
 
 		//album porno
 		aqui_estoyText = new FlxSprite(0, 270).loadGraphic(Paths.image('freeplay/freeplayText/Aqui-estoy'));
@@ -321,7 +321,7 @@ class FreeplayState2 extends MusicBeatState
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
 		}
 		fondo.animation.play('Cuadros');
-		disco.animation.play('Disco');
+		Album.animation.play('Album');
 
 		lerpScore = Math.floor(FlxMath.lerp(lerpScore, intendedScore, CoolUtil.boundTo(elapsed * 24, 0, 1)));
 		lerpRating = FlxMath.lerp(lerpRating, intendedRating, CoolUtil.boundTo(elapsed * 12, 0, 1));

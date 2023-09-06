@@ -69,6 +69,7 @@ class FreeplayState extends MusicBeatState
 	var rap_kirby:FlxSprite;
 	var otomatone_Vs_Stylophone:FlxSprite;
 	var grape_soda:FlxSprite;
+	var firulais:FlxSprite;
 	//textos roleplay
 	var lyricsText:FlxSprite;
 	var beepy_styleText:FlxSprite;
@@ -83,8 +84,11 @@ class FreeplayState extends MusicBeatState
 	var pokemon_goText:FlxSprite;
 	var rap_kirbyText:FlxSprite;
 	var otomatone_Vs_StylophoneText:FlxSprite;
+	var firulaistext:FlxSprite;
 	var grape_sodaText:FlxSprite;
 	var nightmare:FlxSprite;
+	
+
 
 	override function create()
 	{
@@ -232,6 +236,11 @@ class FreeplayState extends MusicBeatState
 		otomatone_Vs_Stylophone.visible = false;
 		add(otomatone_Vs_Stylophone);
 
+		firulais = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/determinacion'));
+		firulais.antialiasing = ClientPrefs.globalAntialiasing;
+		firulais.visible = false;
+		add(firulais);
+
 		grape_soda = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/Goodfun'));
 		grape_soda.antialiasing = ClientPrefs.globalAntialiasing;
 		grape_soda.visible = false;
@@ -280,6 +289,11 @@ class FreeplayState extends MusicBeatState
 		wizardText.antialiasing = ClientPrefs.globalAntialiasing;
 		wizardText.visible = false;
 		add(wizardText);
+
+		firulaistext = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/firulais'));
+		firulaistext.antialiasing = ClientPrefs.globalAntialiasing;
+		firulaistext.visible = false;
+		add(firulaistext);
 						
 		aqui_estoyText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Aqui-estoy'));
 		aqui_estoyText.antialiasing = ClientPrefs.globalAntialiasing;

@@ -15,7 +15,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	-- no se que es esta mamada,pero si no la pongo,la wea no sirve
 	if not finishedGameover and tag == 'playvoice' then
 		math.randomseed(os.time());
-		soundName = string.format('%i', math.random(1, 4));
+		soundName = string.format('%i', math.random(1, 7));
 		playSound(soundName, 1, 'voice');
 		startedPlaying = true;
 	end

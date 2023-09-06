@@ -11,7 +11,7 @@ function onCreate()
 end
 
 function onStepHit()
-    if curStep == 139 or curStep == 330 or curStep == 619 or curStep == 885 then
+    if curStep == 139 or curStep == 330 or curStep == 619 or curStep == 885 or curStep == 1227 then
         doTweenAlpha('fadein 1', 'cutsceneText', 1, 0.7, linear)
     end
 
@@ -42,7 +42,7 @@ function onStepHit()
     if curStep == 305 then
         setTextString('cutsceneText', "Cantándote esta canción")
     end
-    if curStep == 321 or curStep == 609 or curStep == 865 or curStep == 961 or curStep == 1350 then
+    if curStep == 321 or curStep == 609 or curStep == 865 or curStep == 961 or curStep == 1350 or curStep == 1356 then
         doTweenAlpha('fadeout 0', 'cutsceneText', 0, 0.7, linear)
     end
     if curStep == 330 then
