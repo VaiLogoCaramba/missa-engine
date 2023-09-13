@@ -705,6 +705,7 @@ class FreeplayState extends MusicBeatState
 		rap_kirbyText.visible = false;
 		otomatone_Vs_StylophoneText.visible = false;
 		grape_sodaText.visible = false;
+		firulaistext.visible = false;
 		nightmare.visible = false;
 
 		//Lyrics
@@ -758,13 +759,17 @@ class FreeplayState extends MusicBeatState
 
 		//grape
 		if (curSelected == 7)
+			firulaistext.visible = true;
+
+		//grape
+		if (curSelected == 8)
 			grape_soda.visible = true;
 
-		if (curSelected == 7)
+		if (curSelected == 8)
 			grape_sodaText.visible = true;
 
 		//nightmare
-		if (curSelected == 8)
+		if (curSelected == 9)
 			nightmare.visible = true;
 
 		//fin xd
