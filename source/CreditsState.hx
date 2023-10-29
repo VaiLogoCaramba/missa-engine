@@ -82,7 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Vs Missa Team'],
-			['Charmipotato',				'charmi',			'Director y progamador',		'https://twitter.com/Charmipotato',			'C1EDFF'],
+			['Charmipotato',				'charmi',			'Director y progamador(es femboy)',		'https://twitter.com/Charmipotato',			'C1EDFF'],
 			['JaparoProductions',			'Zac',			'Artista principal, animador y co director',	'https://twitter.com/ArtJaparo',			'303137'],
 			['MrPixelProductions',		'Pixel',		'El que carreo el equipo',										'https://twitter.com/MrPixel110308',	'77FF73'],
 			['Woyer',		'woyer',			'charter, musico y modchart',							'https://twitter.com/RealWoyer',	'3A224C'],
@@ -92,7 +92,7 @@ class CreditsState extends MusicBeatState
 			['kennyL',				'KennyL',			'Compositor secundario',											'https://twitter.com/KennyL_UwU',		'853688'],
 			['DHA',				'DHA',			'Coder secundario,modchart secundario',											'https://twitter.com/dha_dream',		'383E7B'],
 			['Dari-chan',				'DHA',			'Escenario wizard(le quedo god)',											'https://twitter.com/Smokey_5_',		'383E7B'],
-			['Roberto',				'roberto',			'Coding(album, freeplay, barra de tiempo, algunas cosas en el menu), ola mama',											'https://twitter.com/Rob0br1neuwu',		'29FF00'],
+			['Roberto',				'roberto',			'Coding(album, freeplay, algunas cosas en el menu), ola mama',											'https://twitter.com/Rob0br1neuwu',		'29FF00'],
 			[''],
 			["engine original"],
 			['Shadow mario',		'shadowmario',	"Engine original",							'https://twitter.com/Shadow_Mario_',	'CF2D2D'],

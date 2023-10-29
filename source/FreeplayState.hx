@@ -236,7 +236,7 @@ class FreeplayState extends MusicBeatState
 		otomatone_Vs_Stylophone.visible = false;
 		add(otomatone_Vs_Stylophone);
 
-		firulais = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/determinacion'));
+		firulais = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/firulais'));
 		firulais.antialiasing = ClientPrefs.globalAntialiasing;
 		firulais.visible = false;
 		add(firulais);

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chica.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chica0000" x="5" y="5" width="617" height="683"/>
+	<SubTexture name="chica0001" x="5" y="5" width="617" height="683"/>
+	<SubTexture name="chica0002" x="627" y="5" width="617" height="683"/>
+	<SubTexture name="chica0003" x="627" y="5" width="617" height="683"/>
+	<SubTexture name="chica0004" x="1249" y="5" width="617" height="683"/>
+	<SubTexture name="chica0005" x="5" y="693" width="617" height="683"/>
+	<SubTexture name="chica0006" x="5" y="693" width="617" height="683"/>
+	<SubTexture name="chica0007" x="1249" y="5" width="617" height="683"/>
+	<SubTexture name="chica0008" x="1249" y="5" width="617" height="683"/>
+	<SubTexture name="chica0009" x="627" y="693" width="617" height="683"/>
+	<SubTexture name="chica0010" x="627" y="693" width="617" height="683"/>
+	<SubTexture name="chica0011" x="627" y="5" width="617" height="683"/>
+	<SubTexture name="chica0012" x="627" y="5" width="617" height="683"/>
+	<SubTexture name="chica0013" x="1249" y="693" width="617" height="683"/>
+	<SubTexture name="chica0014" x="1249" y="693" width="617" height="683"/>
+	<SubTexture name="chica0015" x="5" y="5" width="617" height="683"/>
+	<SubTexture name="chica0016" x="5" y="5" width="617" height="683"/>
+	<SubTexture name="chica0017" x="5" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0018" x="5" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0019" x="627" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0020" x="1249" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0021" x="1249" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0022" x="627" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0023" x="627" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0024" x="5" y="2069" width="617" height="683"/>
+	<SubTexture name="chica0025" x="5" y="2069" width="617" height="683"/>
+	<SubTexture name="chica0026" x="5" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0027" x="5" y="1381" width="617" height="683"/>
+	<SubTexture name="chica0028" x="627" y="2069" width="617" height="683"/>
+	<SubTexture name="chica0029" x="627" y="2069" width="617" height="683"/>
+</TextureAtlas>
