@@ -1,19 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Cuadros.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="CuadrosIdle0000" x="20" y="20" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0001" x="962" y="20" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0002" x="1904" y="20" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0003" x="2846" y="20" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0004" x="20" y="1848" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0005" x="962" y="1848" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0006" x="1904" y="1848" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0007" x="2846" y="1848" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0008" x="20" y="3676" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0009" x="962" y="3676" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0010" x="1904" y="3676" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0011" x="2846" y="3676" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0012" x="20" y="5504" width="842" height="1728"/>
-	<SubTexture name="CuadrosIdle0013" x="962" y="5504" width="842" height="1728"/>
+	<SubTexture name="CuadrosIdle instancia 10000" x="10" y="10" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10001" x="1450" y="10" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10002" x="2890" y="10" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10003" x="4330" y="10" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10004" x="5770" y="10" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10005" x="10" y="954" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10006" x="1450" y="954" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10007" x="2890" y="954" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10008" x="4330" y="954" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10009" x="5770" y="954" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10010" x="10" y="1898" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
+	<SubTexture name="CuadrosIdle instancia 10011" x="1450" y="1898" width="1430" height="934" frameX="650" frameY="-300" frameWidth="924" frameHeight="639"/>
 </TextureAtlas>

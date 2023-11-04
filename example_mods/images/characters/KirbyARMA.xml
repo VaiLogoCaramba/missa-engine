@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Kirby.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
+<TextureAtlas imagePath="KirbyARMA.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="LogoFreePlay0000" x="10" y="10" width="652" height="531" frameX="0" frameY="-6" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0001" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0002" x="10" y="1195" width="652" height="537" frameX="0" frameY="0" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0003" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0004" x="10" y="10" width="652" height="531" frameX="0" frameY="-6" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0005" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0006" x="10" y="1195" width="652" height="537" frameX="0" frameY="0" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0007" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0008" x="10" y="10" width="652" height="531" frameX="0" frameY="-6" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0009" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0010" x="10" y="1195" width="652" height="537" frameX="0" frameY="0" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0011" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0012" x="10" y="10" width="652" height="531" frameX="0" frameY="-6" frameWidth="658" frameHeight="537"/>
-	<SubTexture name="LogoFreePlay0013" x="10" y="601" width="657" height="534" frameX="-1" frameY="-3" frameWidth="658" frameHeight="537"/>
+	<SubTexture name="LogoFreePlay0000" x="10" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0001" x="677" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0002" x="1344" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0003" x="10" y="864" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0004" x="10" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0005" x="677" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0006" x="1344" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0007" x="10" y="864" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0008" x="10" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0009" x="677" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0010" x="1344" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0011" x="10" y="864" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0012" x="10" y="10" width="657" height="844"/>
+	<SubTexture name="LogoFreePlay0013" x="677" y="10" width="657" height="844"/>
 </TextureAtlas>
