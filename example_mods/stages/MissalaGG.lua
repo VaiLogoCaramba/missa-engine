@@ -44,4 +44,39 @@ function onCreate()
         setProperty('tableta2.alpha',0)
         setProperty('tele2.alpha',0)
     end
+    makeLuaSprite('bartop','',-200,-130)
+    makeGraphic('bartop',2000,300,'000000')
+    addLuaSprite('bartop',true)
+    setScrollFactor('bartop',0,0)
+    setObjectCamera('bartop','hud')
+    setProperty('bartop.alpha', 0)
+
+    makeLuaSprite('barbot','',-200,590)
+    makeGraphic('barbot',2000,300,'000000')
+    addLuaSprite('barbot',true)
+    setScrollFactor('barbot',0,0)
+    setObjectCamera('barbot','hud')
+    setProperty('barbot.alpha', 0)
+
+    addCharacterToList('gf_neon','gf') 
+    addCharacterToList('MissaNEON','dad') 
+    addCharacterToList('bf_neon','boyfriend') 
+end
+
+function BarsDef()
+    doTweenY('def1','bartop',-370, 1,'sineInOut')
+    doTweenY('def2','barbot',570, 1,'sineInOut')
+    noteTweenY('NOTEMOVE1', 0, 120, 1, 'sineInOut') 
+    noteTweenY('NOTEMOVE2', 1, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE3', 2, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE4', 3, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE5', 4, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE6', 5, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE7', 6, 120, 1, 'sineInOut')
+    noteTweenY('NOTEMOVE8', 7, 120, 1, 'sineInOut')
+end
+
+function barsGone()
+    doTweenY('gone1','bartop', -870,0.8,'sineOut')
+    doTweenY('gone2','barbot', 800,0.8,'sineOut')   
 end

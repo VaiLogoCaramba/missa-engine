@@ -21,6 +21,16 @@ function onCreate()
 	setProperty('fondo2.visible',false)
 	addLuaSprite('fondo2', false)
 
+	makeLuaSprite('habitacionDado', 'habitacionDado', -500, -100);
+	setScrollFactor('habitacionDado', 0.9, 0.9);
+	setProperty('habitacionDado.visible',false)
+	addLuaSprite('habitacionDado', false)
+
+	makeLuaSprite('habitacionNeonDado', 'habitacionNeonDado', -500, -100);
+	setScrollFactor('habitacionNeonDado', 0.9, 0.9);
+	setProperty('habitacionNeonDado.visible',false)
+	addLuaSprite('habitacionNeonDado', false)
+
 	makeLuaSprite('bartop','',-200,-30)
 	makeGraphic('bartop',2000,100,'000000')
 	addLuaSprite('bartop',true)
@@ -48,6 +58,13 @@ function onCreate()
 	addLuaSprite('funny2', false);
 	setObjectCamera('funny2','hud')
 	setProperty('funny2.alpha', 0)		
+
+	makeAnimatedLuaSprite('coso', 'coso', 300, 200);
+	setScrollFactor('coso', 1, 1);
+	scaleObject('coso',1,1);
+   	addLuaSprite('coso', false);
+   	setObjectCamera('coso','hud')
+   	setProperty('coso.alpha',0)
 end
 function onUpdate()
 	noteTweenAlpha('dadTween1', 0, 0, 0.01, 'CubeOut');
@@ -103,7 +120,7 @@ function onStepHit()
 		setProperty('funny2.alpha',0)
 		doTweenZoom('screenZoom', 'camGame', 1, 1, 'quintOut');
 		triggerEvent('Change Character', 'bf', 'Missa_Aqui_estoy');
-		setProperty('fondo1.visible',true)
+		setProperty('habitacionDado.visible',true)
 		setProperty('fondo2.visible',false)
 	end
 	if curStep == 337 then
@@ -122,8 +139,8 @@ function onStepHit()
 		setProperty('funny2.alpha',1)
 		doTweenZoom('screenZoom', 'camGame', 0.9, 1, 'quintOut');
 		triggerEvent('Change Character', 'bf', 'Missa_Aqui_estoy_Neon');
-		setProperty('fondo2.visible',true)
-		setProperty('fondo1.visible',false)
+		setProperty('habitacionNeonDado.visible',true)
+		setProperty('habitacionDado.visible',false)
 	end
 	if curStep == 608 then
 		setProperty('no.alpha', 1)
@@ -131,9 +148,31 @@ function onStepHit()
 		doTweenZoom('screenZoom', 'camGame', 1, 1, 'quintOut');
 		triggerEvent('Change Character', 'bf', 'Missa_Aqui_estoy');
 		setProperty('fondo1.visible',true)
-		setProperty('fondo2.visible',false)
+		setProperty('habitacionNeonDado.visible',false)
 	end
 	if curStep == 610 then
+		doTweenAlpha('blackword', 'no', 0, 1, 'linear')
+		doTweenAlpha('funnyhaha', 'funny', 0.5, 1.5, 'linear')
+	end
+	if curStep == 676 then
+		flash()
+		setProperty('funny.alpha',0)
+		setProperty('funny2.alpha',1)
+		doTweenZoom('screenZoom', 'camGame', 0.9, 1, 'quintOut');
+		triggerEvent('Change Character', 'bf', 'Missa_Aqui_estoy_Neon');
+		setProperty('fondo2.visible',true)
+		setProperty('fondo1.visible',false)
+	end
+	--back to boring shit
+	if curStep == 878 then
+		setProperty('no.alpha', 1)
+		setProperty('funny2.alpha',0)
+		doTweenZoom('screenZoom', 'camGame', 1, 1, 'quintOut');
+		triggerEvent('Change Character', 'bf', 'Missa_Aqui_estoy');
+		setProperty('fondo1.visible',true)
+		setProperty('fondo2.visible',false)
+	end
+	if curStep == 880 then
 		doTweenAlpha('blackword', 'no', 0, 1, 'linear')
 		doTweenAlpha('funnyhaha', 'funny', 0.5, 1.5, 'linear')
 	end
@@ -145,4 +184,12 @@ function onStepHit()
 	if curStep == 1152 then
 		doTweenAlpha('blackword', 'HUD', 0, 1, 'linear')
 	end
+	if curStep == 1990 then
+		doTweenAlpha('fondo alpha', 'fondo1', 0, 1, 'linear')
+	end
+	if curStep == 1200 then
+		setProperty('coso.alpha',1)
+		addAnimationByPrefix('coso', 'coso', 'coso', 24, true);
+	end
+
 end
