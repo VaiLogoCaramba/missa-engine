@@ -54,6 +54,28 @@
 			"fps": 24,
 			"name": "Missa ARRIBA",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-70
+			],
+			"anim": "nuevo video",
+			"fps": 24,
+			"name": "MissaNuevoVideo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "toca ritmo",
+			"loop": false,
+			"name": "MissaTocaRitmo"
 		}
 	],
 	"no_antialiasing": false,

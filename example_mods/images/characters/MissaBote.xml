@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MissaBote.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Missa ABAJO0000" x="30" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0001" x="30" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0002" x="838" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0003" x="838" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0004" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0005" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0006" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0007" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0008" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0009" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ABAJO0010" x="1646" y="30" width="748" height="751"/>
+	<SubTexture name="Missa ARRIBA0000" x="2454" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0001" x="2454" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0002" x="3262" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0003" x="3262" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0004" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0005" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0006" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0007" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0008" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0009" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa ARRIBA0010" x="4070" y="30" width="748" height="776"/>
+	<SubTexture name="Missa DERECHA0000" x="4878" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0001" x="4878" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0002" x="5686" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0003" x="5686" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0004" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0005" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0006" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0007" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0008" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa DERECHA0009" x="6494" y="30" width="748" height="766"/>
+	<SubTexture name="Missa IZQUIERDA0000" x="7302" y="30" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0001" x="7302" y="30" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0002" x="30" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0003" x="30" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0004" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0005" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0006" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0007" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0008" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0009" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="Missa IZQUIERDA0010" x="838" y="866" width="748" height="763"/>
+	<SubTexture name="MissaIdle0000" x="1646" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0001" x="1646" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0002" x="2454" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0003" x="2454" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0004" x="3262" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0005" x="3262" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0006" x="4070" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0007" x="4070" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0008" x="4878" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0009" x="4878" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0010" x="5686" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0011" x="5686" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0012" x="6494" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0013" x="6494" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0014" x="7302" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0015" x="7302" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0016" x="30" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0017" x="30" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0018" x="838" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0019" x="838" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0020" x="1646" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0021" x="1646" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0022" x="2454" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0023" x="2454" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0024" x="3262" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0025" x="3262" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0026" x="4070" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0027" x="4070" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0028" x="4878" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0029" x="4878" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0030" x="5686" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0031" x="5686" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0032" x="6494" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0033" x="6494" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0034" x="6494" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0035" x="6494" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0036" x="4878" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0037" x="4878" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0038" x="7302" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0039" x="7302" y="1697" width="748" height="771"/>
+	<SubTexture name="MissaIdle0040" x="3262" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0041" x="3262" y="866" width="748" height="771"/>
+	<SubTexture name="MissaIdle0042" x="30" y="2528" width="748" height="771"/>
+	<SubTexture name="MissaIdle0043" x="30" y="2528" width="748" height="771"/>
+	<SubTexture name="MissaIdle0044" x="1646" y="866" width="748" height="771"/>
+</TextureAtlas>

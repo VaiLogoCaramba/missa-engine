@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Mar.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Mar0000" x="20" y="20" width="2198" height="676"/>
-	<SubTexture name="Mar0001" x="20" y="20" width="2198" height="676"/>
-	<SubTexture name="Mar0002" x="20" y="721" width="2198" height="676"/>
-	<SubTexture name="Mar0003" x="20" y="721" width="2198" height="676"/>
-	<SubTexture name="Mar0004" x="20" y="1422" width="2198" height="676"/>
-	<SubTexture name="Mar0005" x="20" y="1422" width="2198" height="676"/>
-	<SubTexture name="Mar0006" x="20" y="2123" width="2198" height="676"/>
-	<SubTexture name="Mar0007" x="20" y="2123" width="2198" height="676"/>
-	<SubTexture name="Mar0008" x="20" y="2824" width="2198" height="676"/>
-	<SubTexture name="Mar0009" x="20" y="2824" width="2198" height="676"/>
-	<SubTexture name="Mar0010" x="20" y="3525" width="2198" height="676"/>
-	<SubTexture name="Mar0011" x="20" y="3525" width="2198" height="676"/>
-	<SubTexture name="Mar0012" x="20" y="4226" width="2198" height="676"/>
-	<SubTexture name="Mar0013" x="20" y="4226" width="2198" height="676"/>
-	<SubTexture name="Mar0014" x="20" y="4927" width="2198" height="676"/>
-	<SubTexture name="Mar0015" x="20" y="4927" width="2198" height="676"/>
-	<SubTexture name="Mar0016" x="20" y="5628" width="2198" height="676"/>
-	<SubTexture name="Mar0017" x="20" y="5628" width="2198" height="676"/>
-	<SubTexture name="Mar0018" x="20" y="6329" width="2198" height="676"/>
-	<SubTexture name="Mar0019" x="20" y="6329" width="2198" height="676"/>
+	<SubTexture name="Mar0000" x="30" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0001" x="30" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0002" x="2288" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0003" x="2288" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0004" x="4546" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0005" x="4546" y="30" width="2198" height="592"/>
+	<SubTexture name="Mar0006" x="30" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0007" x="30" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0008" x="2288" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0009" x="2288" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0010" x="4546" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0011" x="4546" y="682" width="2198" height="592"/>
+	<SubTexture name="Mar0012" x="30" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0013" x="30" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0014" x="2288" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0015" x="2288" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0016" x="4546" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0017" x="4546" y="1334" width="2198" height="592"/>
+	<SubTexture name="Mar0018" x="30" y="1986" width="2198" height="592"/>
+	<SubTexture name="Mar0019" x="30" y="1986" width="2198" height="592"/>
 </TextureAtlas>

@@ -1,59 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				267,
 				19
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Missa Idle"
+			"fps": 24,
+			"name": "Missa Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				306,
 				19
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Missa LEFT"
+			"fps": 24,
+			"name": "Missa LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				203,
 				18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Missa RIGHT"
+			"fps": 24,
+			"name": "Missa RIGHT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				263,
 				-59
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Missa DOWN"
+			"fps": 24,
+			"name": "Missa DOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				296,
 				76
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Missa UP"
+			"fps": 24,
+			"name": "Missa UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				267,
+				19
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Missa Idle"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +81,12 @@
 		0,
 		0
 	],
-	"healthicon": "missa",
+	"healthicon": "JPG",
 	"flip_x": false,
 	"healthbar_colors": [
-		47,
-		47,
-		47
+		35,
+		29,
+		28
 	],
 	"camera_position": [
 		-70,

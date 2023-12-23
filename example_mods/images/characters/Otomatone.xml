@@ -1,81 +1,166 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Otomatone.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Otomatone DOWN0000" x="20" y="20" width="254" height="413" frameX="0" frameY="-6" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0001" x="20" y="20" width="254" height="413" frameX="0" frameY="-6" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0002" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0003" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0004" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0005" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0006" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0007" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0008" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0009" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0010" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0011" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0012" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone DOWN0013" x="299" y="20" width="246" height="407" frameX="-5" frameY="0" frameWidth="254" frameHeight="419"/>
-	<SubTexture name="Otomatone Idle0000" x="570" y="20" width="233" height="413" frameX="0" frameY="-5" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0001" x="570" y="20" width="233" height="413" frameX="0" frameY="-5" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0002" x="828" y="20" width="230" height="416" frameX="-3" frameY="-2" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0003" x="828" y="20" width="230" height="416" frameX="-3" frameY="-2" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0004" x="1083" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0005" x="1083" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0006" x="1335" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0007" x="1335" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0008" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0009" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0010" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0011" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0012" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone Idle0013" x="1587" y="20" width="227" height="418" frameX="-6" frameY="0" frameWidth="233" frameHeight="418"/>
-	<SubTexture name="Otomatone LEFT0000" x="20" y="463" width="299" height="403" frameX="0" frameY="-4" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0001" x="20" y="463" width="299" height="403" frameX="0" frameY="-4" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0002" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0003" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0004" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0005" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0006" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0007" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0008" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0009" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0010" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0011" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0012" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone LEFT0013" x="344" y="463" width="285" height="407" frameX="-16" frameY="0" frameWidth="301" frameHeight="407"/>
-	<SubTexture name="Otomatone RIGHT0000" x="654" y="463" width="229" height="411" frameX="-5" frameY="-1" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0001" x="654" y="463" width="229" height="411" frameX="-5" frameY="-1" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0002" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0003" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0004" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0005" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0006" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0007" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0008" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0009" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0010" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0011" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0012" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone RIGHT0013" x="908" y="463" width="204" height="410" frameX="0" frameY="0" frameWidth="234" frameHeight="412"/>
-	<SubTexture name="Otomatone Talk0000" x="1137" y="463" width="222" height="418" frameX="-2" frameY="0" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone Talk0001" x="1137" y="463" width="222" height="418" frameX="-2" frameY="0" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone Talk0002" x="1384" y="463" width="227" height="415" frameX="0" frameY="-3" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone Talk0003" x="1384" y="463" width="227" height="415" frameX="0" frameY="-3" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone Talk0004" x="1636" y="463" width="223" height="417" frameX="-2" frameY="-1" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone Talk0005" x="1636" y="463" width="223" height="417" frameX="-2" frameY="-1" frameWidth="227" frameHeight="418"/>
-	<SubTexture name="Otomatone UP0000" x="20" y="906" width="222" height="431"/>
-	<SubTexture name="Otomatone UP0001" x="20" y="906" width="222" height="431"/>
-	<SubTexture name="Otomatone UP0002" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0003" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0004" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0005" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0006" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0007" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0008" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0009" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0010" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0011" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0012" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
-	<SubTexture name="Otomatone UP0013" x="267" y="906" width="222" height="427" frameX="0" frameY="-4" frameWidth="222" frameHeight="431"/>
+	<SubTexture name="Otomatone DOWN0000" x="30" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0001" x="30" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0002" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0003" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0004" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0005" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0006" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0007" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0008" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0009" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0010" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0011" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0012" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DOWN0013" x="344" y="30" width="254" height="419"/>
+	<SubTexture name="Otomatone DejenDormir0000" x="658" y="30" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0001" x="1433" y="30" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0002" x="2208" y="30" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0003" x="2983" y="30" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0004" x="30" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0005" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0006" x="1580" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0007" x="2355" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0008" x="3130" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0009" x="30" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0010" x="805" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0011" x="3130" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0012" x="1580" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0013" x="2355" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0014" x="2355" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0015" x="3130" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0016" x="30" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0017" x="805" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0018" x="3130" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0019" x="1580" y="1616" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0020" x="30" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0021" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0022" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0023" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0024" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0025" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0026" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0027" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0028" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0029" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0030" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0031" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0032" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0033" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0034" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0035" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0036" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0037" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0038" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0039" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0040" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0041" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0042" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0043" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0044" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0045" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0046" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0047" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0048" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0049" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0050" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0051" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0052" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0053" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0054" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0055" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0056" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0057" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0058" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0059" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0060" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0061" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0062" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0063" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0064" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0065" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0066" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0067" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0068" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0069" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0070" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0071" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0072" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0073" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0074" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0075" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0076" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0077" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0078" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0079" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0080" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0081" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0082" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0083" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0084" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0085" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0086" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0087" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0088" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0089" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone DejenDormir0090" x="805" y="823" width="715" height="733"/>
+	<SubTexture name="Otomatone Idle0000" x="3130" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0001" x="3130" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0002" x="3423" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0003" x="3423" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0004" x="3716" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0005" x="3716" y="1616" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0006" x="30" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0007" x="30" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0008" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0009" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0010" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0011" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0012" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone Idle0013" x="323" y="2409" width="233" height="418"/>
+	<SubTexture name="Otomatone LEFT0000" x="616" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0001" x="616" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0002" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0003" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0004" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0005" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0006" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0007" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0008" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0009" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0010" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0011" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0012" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone LEFT0013" x="977" y="2409" width="301" height="407"/>
+	<SubTexture name="Otomatone RIGHT0000" x="1338" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0001" x="1338" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0002" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0003" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0004" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0005" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0006" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0007" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0008" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0009" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0010" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0011" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0012" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone RIGHT0013" x="1632" y="2409" width="234" height="412"/>
+	<SubTexture name="Otomatone UP0000" x="1926" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0001" x="1926" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0002" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0003" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0004" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0005" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0006" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0007" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0008" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0009" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0010" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0011" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0012" x="2208" y="2409" width="222" height="431"/>
+	<SubTexture name="Otomatone UP0013" x="2208" y="2409" width="222" height="431"/>
 </TextureAtlas>

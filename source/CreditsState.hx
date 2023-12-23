@@ -91,7 +91,7 @@ class CreditsState extends MusicBeatState
 			['Xstef',	'Xstef',			'Charter, artista secundario',							'https://www.youtube.com/@Stef17Gamer',		'4A87E3'],
 			['kennyL',				'KennyL',			'Compositor secundario',											'https://twitter.com/KennyL_UwU',		'853688'],
 			['DHA',				'DHA',			'Coder secundario,modchart secundario',											'https://twitter.com/dha_dream',		'383E7B'],
-			['Dari-chan',				'DHA',			'Escenario wizard(le quedo god)',											'https://twitter.com/Smokey_5_',		'383E7B'],
+			['Dari-chan',				'dari',			'Escenario wizard(le quedo god)',											'https://twitter.com/Smokey_5_',		'383E7B'],
 			['Roberto',				'roberto',			'Coding(album, freeplay, algunas cosas en el menu), ola mama',											'https://twitter.com/Rob0br1neuwu',		'29FF00'],
 			[''],
 			["engine original"],

@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				99,
 				-110
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "chica",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -26,17 +25,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "chica"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				100,
 				-110
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "chica",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -53,7 +52,40 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "chica"
+		},
+		{
+			"offsets": [
+				100,
+				-110
+			],
+			"indices": [
+				17,
+				18,
+				26,
+				27
+			],
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"loop": false,
+			"name": "chica"
+		},
+		{
+			"offsets": [
+				100,
+				-110
+			],
+			"indices": [
+				17,
+				18,
+				26,
+				27
+			],
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"loop": false,
+			"name": "chica"
 		}
 	],
 	"no_antialiasing": false,

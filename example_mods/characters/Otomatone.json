@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				75,
 				-62
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Otomatone LEFT"
+			"fps": 24,
+			"name": "Otomatone LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				-51
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Otomatone Idle"
+			"fps": 24,
+			"name": "Otomatone Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				-38
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Otomatone UP"
+			"fps": 24,
+			"name": "Otomatone UP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-58,
 				-59
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Otomatone RIGHT"
+			"fps": 24,
+			"name": "Otomatone RIGHT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				-61
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Otomatone DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				483,
+				265
+			],
 			"indices": [],
-			"name": "Otomatone DOWN"
+			"fps": 23,
+			"anim": "dejen dormir",
+			"loop": false,
+			"name": "Otomatone DejenDormir"
 		}
 	],
 	"no_antialiasing": false,

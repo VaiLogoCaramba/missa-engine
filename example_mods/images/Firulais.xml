@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Firulais.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firulais0000" x="5" y="5" width="495" height="495"/>
+	<SubTexture name="firulais0001" x="505" y="5" width="495" height="495"/>
+	<SubTexture name="firulais0002" x="5" y="505" width="495" height="495"/>
+	<SubTexture name="firulais0003" x="505" y="505" width="495" height="495"/>
+	<SubTexture name="firulais0004" x="5" y="1005" width="495" height="495"/>
+	<SubTexture name="firulais0005" x="505" y="1005" width="495" height="495"/>
+	<SubTexture name="firulais0006" x="5" y="1505" width="495" height="495"/>
+	<SubTexture name="firulais0007" x="505" y="1505" width="495" height="495"/>
+</TextureAtlas>

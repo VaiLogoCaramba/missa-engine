@@ -1,17 +1,18 @@
 musico = 'artist'
 el3tricksong = {'Goodfun' , 'Cursed_Symphony'}
 fadesong = {'Lyrics' , 'Rocktime'}
-missasong = {'Aqui_estoy' , 'cuarentena' , 'cancion_china' , 'oaxaca' , 'otomatone' , 'determinacion' , 'Cancion_al_Mar', 'Rap_Mario_3' , 'rap_kirby'}
+missasong = {'Aqui_estoy' , 'cuarentena' , 'cancion_china' , 'oaxaca' , 'otomatone' , 'determinacion' , 'Cancion_al_Mar', 'Rap_Mario_3' , 'rap_kirby' , 'oaxaca' , 'cancion_china' , 'cuarentena' , 'Otomatone_Vs_Stylophone'}
+woyersong = {'firulais' , 'Grape_soda'}
 dontplay = {'march' , 'true-trolling'}
 
 function onCreate()
     makeAnimatedLuaSprite('songinfo','Borde',-650,530)
     
     setGraphicSize('songinfo',getProperty('songinfo.width') * 0.8)
-    setObjectCamera('songinfo','camHUD')
+    setObjectCamera('songinfo','camother')
 
     makeLuaText('songname','',0,getProperty('songinfo.x') -650,getProperty('songinfo.y') + 20)
-    setObjectCamera('songname','camHUD')
+    setObjectCamera('songname','camother')
 
     setTextBorder('songname',4,'000000')
     setTextSize('songname', 40)
@@ -43,6 +44,13 @@ function onCreatePost()
         end
       end
 
+      for _, s in ipairs(woyersong) do
+        if s == songName then
+             musico = 'woyer'
+          break
+        end
+      end
+
       for _, s in ipairs(missasong) do
         if s == songName then
              musico = 'Missasinfonia'
@@ -52,6 +60,10 @@ function onCreatePost()
       
       if songName ==  'Billy' then
         musico = 'KennyL'
+      end
+
+      if songName ==  'otomatone' then
+        musico = 'I Dan K'
       end
       
       if songName ==  'Pizza' then

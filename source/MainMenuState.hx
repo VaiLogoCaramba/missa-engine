@@ -113,6 +113,18 @@ class MainMenuState extends MusicBeatState
 			scale = 6 / optionShit.length;
 		}*/
 
+		var bg1:FlxSprite = new FlxSprite();
+		bg1.frames = Paths.getSparrowAtlas('mainmenu/Cuadros');
+		bg1.animation.addByPrefix('a', 'CuadrosIdle instancia');
+		bg1.animation.play('a', true);
+		bg1.scrollFactor.x = 0;
+		bg1.scrollFactor.y = 0;
+		bg1.updateHitbox();
+		bg1.screenCenter();
+		bg1.antialiasing = true;
+		bg1.y = -70;
+		add(bg1);
+
 		for (i in 0...optionShit.length)
 		{
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
@@ -135,7 +147,7 @@ class MainMenuState extends MusicBeatState
 			menuItem.updateHitbox();
 		}
 
-		FlxG.camera.follow(camFollowPos, null, 0);		
+		FlxG.camera.follow(camFollowPos, null, 0);	
 
 		char1 = new Character(-70,-70, 'cuadros', true);
         char1.setGraphicSize (Std.int(char1.width * 0.8 ));
@@ -166,6 +178,8 @@ class MainMenuState extends MusicBeatState
         char6.setGraphicSize (Std.int(char6.width * 0.8 ));
 		add(char6);
 		char6.visible = false;
+
+
 
 		//Hola hijos de su puta madre, y hoy les voy a mostrar como hacer un menu de selecion siguiendo este codigo pero denmen creditos cabrones o los papeo
 
@@ -250,11 +264,11 @@ class MainMenuState extends MusicBeatState
 	
 			char1.dance();
 			char1.updateHitbox();
-			char1.visible = true;
+			char1.visible = false;
 		}
 		else
 		{	
-			char1.visible = true;    
+			char1.visible = false;   
 		}	
 	if (optionShit[curSelected] ==  'story_mode')
 		{              
