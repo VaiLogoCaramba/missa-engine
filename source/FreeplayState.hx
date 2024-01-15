@@ -65,7 +65,6 @@ class FreeplayState extends MusicBeatState
 	var aqui_estoy:FlxSprite;
 	var ignt:FlxSprite;
 	var determinacion:FlxSprite;
-	var pokemon_go:FlxSprite;
 	var rap_kirby:FlxSprite;
 	var otomatone_Vs_Stylophone:FlxSprite;
 	var grape_soda:FlxSprite;
@@ -81,7 +80,6 @@ class FreeplayState extends MusicBeatState
 	var aqui_estoyText:FlxSprite;
 	var igntText:FlxSprite;
 	var determinacionText:FlxSprite;
-	var pokemon_goText:FlxSprite;
 	var rap_kirbyText:FlxSprite;
 	var otomatone_Vs_StylophoneText:FlxSprite;
 	var firulaistext:FlxSprite;
@@ -220,11 +218,6 @@ class FreeplayState extends MusicBeatState
 		determinacion.antialiasing = ClientPrefs.globalAntialiasing;
 		determinacion.visible = false;
 		add(determinacion);
-		
-		pokemon_go = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/pokeball'));
-		pokemon_go.antialiasing = ClientPrefs.globalAntialiasing;
-		pokemon_go.visible = false;
-		add(pokemon_go);
 				
 		rap_kirby = new FlxSprite(200, 200).loadGraphic(Paths.image('freeplay/Screen/kirby'));
 		rap_kirby.antialiasing = ClientPrefs.globalAntialiasing;
@@ -309,11 +302,6 @@ class FreeplayState extends MusicBeatState
 		determinacionText.antialiasing = ClientPrefs.globalAntialiasing;
 		determinacionText.visible = false;
 		add(determinacionText);
-								
-		pokemon_goText = new FlxSprite(650, 350).loadGraphic(Paths.image('freeplay/freeplayText/Pokemon_go'));
-		pokemon_goText.antialiasing = ClientPrefs.globalAntialiasing;
-		pokemon_goText.visible = false;
-		add(pokemon_goText);
 								
 		rap_kirbyText = new FlxSprite(650, 300).loadGraphic(Paths.image('freeplay/freeplayText/rap_kirby'));
 		rap_kirbyText.antialiasing = ClientPrefs.globalAntialiasing;
@@ -684,7 +672,6 @@ class FreeplayState extends MusicBeatState
 		aqui_estoy.visible = false;
 		ignt.visible = false;
 		determinacion.visible = false;
-		pokemon_go.visible = false;
 		rap_kirby.visible = false;
 		otomatone_Vs_Stylophone.visible = false;
 		grape_soda.visible = false;
@@ -701,7 +688,6 @@ class FreeplayState extends MusicBeatState
 		aqui_estoyText.visible = false;
 		igntText.visible = false;
 		determinacionText.visible = false;
-		pokemon_goText.visible = false;
 		rap_kirbyText.visible = false;
 		otomatone_Vs_StylophoneText.visible = false;
 		grape_sodaText.visible = false;

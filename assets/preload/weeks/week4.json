@@ -3,14 +3,18 @@
 	"difficulties": "Hard",
 	"hideFreeplay": true,
 	"weekBackground": "cuadros",
-	"weekBefore": "week2",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "week2",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
 	"songs": [
 		[
 			"aqui_estoy",
@@ -38,22 +42,9 @@
 				113,
 				253
 			]
-		],
-		[
-			"mario_3",
-			"missapoke",
-			[
-				146,
-				113,
-				253
-			]
 		]
 	],
-	"weekCharacters": [
-		"disco",
-		"missasinfonia",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

@@ -41,7 +41,7 @@ class CreditsState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("en los creditos", null);
 		#end
 
 		persistentUpdate = true;
@@ -82,20 +82,20 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Vs Missa Team'],
-			['Charmipotato',				'charmi',			'Director y progamador(es femboy)',		'https://twitter.com/Charmipotato',			'C1EDFF'],
-			['JaparoProductions',			'Zac',			'Artista principal, animador y co director',	'https://twitter.com/ArtJaparo',			'303137'],
-			['MrPixelProductions',		'Pixel',		'El que carreo el equipo',										'https://twitter.com/MrPixel110308',	'77FF73'],
-			['Woyer',		'woyer',			'charter, musico y modchart',							'https://twitter.com/RealWoyer',	'3A224C'],
-			['el3Trick',				'Trick',				'Compositor principal',			'https://fiverr.com/el3trickplays',			'FFFFFF'],
-			['Fadeaway',				'Fade',			'Compositor principal x2',										'https://www.youtube.com/@FaDeAWAYut',			'ECDDFF'],
-			['Xstef',	'Xstef',			'Charter, artista secundario',							'https://www.youtube.com/@Stef17Gamer',		'4A87E3'],
-			['kennyL',				'KennyL',			'Compositor secundario',											'https://twitter.com/KennyL_UwU',		'853688'],
-			['DHA',				'DHA',			'Coder secundario,modchart secundario',											'https://twitter.com/dha_dream',		'383E7B'],
-			['Dari-chan',				'dari',			'Escenario wizard(le quedo god)',											'https://twitter.com/Smokey_5_',		'383E7B'],
-			['Roberto',				'roberto',			'Coding(album, freeplay, algunas cosas en el menu), ola mama',											'https://twitter.com/Rob0br1neuwu',		'29FF00'],
+			['Charmipotato',		'charmi',	'Director y progamador(es femboy)',		'https://twitter.com/Charmipotato',	'C1EDFF'],
+			['JaparoProductions',			'Zac',			'Artista principal, animador y co director',	'https://twitter.com/ArtJaparo', '303137'],
+			['Roberto',			'roberto',			'Coding(album, freeplay), ola mama',	'https://twitter.com/Rob0br1neuwu',	'29FF00'],
+			['Woyer',		'woyer',			'charter,modchart, musico',		'https://twitter.com/WoyerDa106',	'3A224C'],
+			['kennyL',			'KennyL',			'Compositor 1',	'https://twitter.com/KennyL_UwU', '853688'],
+			['el3Trick',			'Trick',				'Compositor 2',		'https://fiverr.com/el3trickplays',			'FFFFFF'],
+			['Fadeaway',		'Fade',		'Compositor 3',	'https://www.youtube.com/@FaDeAWAYut',			'ECDDFF'],
+			['Xstef',	'Xstef',			'Charter, artista secundario',		'https://www.youtube.com/@Stef17Gamer',		'4A87E3'],
+			['MrPixelProductions',		'Pixel',		'pixel art de DETERMINACION',			'https://twitter.com/MrPixel110308',	'77FF73'],
+			['DHA',			'DHA',			'Coder secundario,modchart secundario',	'https://twitter.com/dha_dream',		'383E7B'],
+			['Dari-chan',		'dari',			'Escenario wizard(le quedo god)',	'https://www.instagram.com/darichan1/',		'383E7B'],
 			[''],
 			["engine original"],
-			['Shadow mario',		'shadowmario',	"Engine original",							'https://twitter.com/Shadow_Mario_',	'CF2D2D'],
+			['Shadow mario',		'shadowmario',	"Engine original",				'https://twitter.com/Shadow_Mario_',	'CF2D2D'],
 		];
 		
 		for(i in pisspoop){

@@ -59,7 +59,6 @@ class FreeplayState2 extends MusicBeatState
 	var aqui_estoyText:FlxSprite;
 	var igntText:FlxSprite;
 	var determinacionText:FlxSprite;
-	var pokemon_goText:FlxSprite;
 	var rap_kirbyText:FlxSprite;
 	var otomatone_Vs_StylophoneText:FlxSprite;
 
@@ -74,7 +73,7 @@ class FreeplayState2 extends MusicBeatState
 
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("en los albunes", null);
+		DiscordClient.changePresence("en los albumes", null);
 		#end
 
 		for (i in 0...WeekData.weeksList.length) {
@@ -105,20 +104,8 @@ class FreeplayState2 extends MusicBeatState
 		addSong('Aqui_estoy', 0, 'pene', 0xFF000000);
 		addSong('Cancion_al_mar', 0, 'pene', 0xFF000000);
 		addSong('Determinacion', 0, 'pene', 0xFF000000);
-		addSong('Rap_mario_3', 0, 'pene', 0xFF000000);
 		addSong('rap_kirby', 0, 'pene', 0xFF000000);
 		addSong('Otomatone_Vs_Stylophone', 0, 'pene', 0xFF000000);
-
-		/*		//KIND OF BROKEN NOW AND ALSO PRETTY USELESS//
-
-		var initSonglist = CoolUtil.coolTextFile(Paths.txt('freeplaySonglist'));
-		for (i in 0...initSonglist.length)
-		{
-			if(initSonglist[i] != null && initSonglist[i].length > 0) {
-				var songArray:Array<String> = initSonglist[i].split(":");
-				addSong(songArray[0], 0, songArray[1], Std.parseInt(songArray[2]));
-			}
-		}*/
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
@@ -161,12 +148,6 @@ class FreeplayState2 extends MusicBeatState
 		determinacionText.visible = false;
 		determinacionText.screenCenter(X);
 		add(determinacionText);
-								
-		pokemon_goText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/Rapmario3'));
-		pokemon_goText.antialiasing = ClientPrefs.globalAntialiasing;
-		pokemon_goText.visible = false;
-		pokemon_goText.screenCenter(X);
-		add(pokemon_goText);
 								
 		rap_kirbyText = new FlxSprite(650, 220).loadGraphic(Paths.image('freeplay/freeplayText/rap_kirby'));
 		rap_kirbyText.antialiasing = ClientPrefs.globalAntialiasing;
@@ -521,7 +502,6 @@ class FreeplayState2 extends MusicBeatState
 		aqui_estoyText.visible = false;
 		igntText.visible = false;
 		determinacionText.visible = false;
-		pokemon_goText.visible = false;
 		rap_kirbyText.visible = false;
 		otomatone_Vs_StylophoneText.visible = false;
 		//aquiestoy
@@ -535,10 +515,6 @@ class FreeplayState2 extends MusicBeatState
 		//determinacion
 		if (curSelected == 2)
 			determinacionText.visible = true;
-
-		//pokemon
-		if (curSelected == 3)
-			pokemon_goText.visible = true;
 
 		//kirby
 		if (curSelected == 4)
