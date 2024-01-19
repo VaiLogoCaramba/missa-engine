@@ -29,11 +29,8 @@ function onStepHit()
         if curStep == 400 or curStep == 1440 then
             setProperty('guitar.alpha', 0)
         end
-    end
-end
-function onBeatHit()
-    if songName == 'rock_time' then
-        if curBeat == 36 or curBeat == 164 then
+
+        if curStep == 143 or curStep == 656 then
             setProperty('guitar.alpha', 1)
         end
     end

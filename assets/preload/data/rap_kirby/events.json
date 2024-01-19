@@ -2,16 +2,6 @@
 	"song": {
 		"events": [
 			[
-				0,
-				[
-					[
-						"MoveArrowsToMiddle",
-						"1",
-						"1"
-					]
-				]
-			],
-			[
 				333.333333333333,
 				[
 					[
@@ -708,16 +698,11 @@
 						"camerazoom",
 						"1",
 						"1"
-					]
-				]
-			],
-			[
-				107333.333333333,
-				[
+					],
 					[
-						"MoveArrowsToMiddle",
-						"0",
-						"0"
+						"Change Character",
+						"BF",
+						"kirby2"
 					]
 				]
 			],
@@ -748,6 +733,16 @@
 						"camerazoom",
 						"0.9",
 						"1"
+					]
+				]
+			],
+			[
+				184500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"MK"
 					]
 				]
 			]

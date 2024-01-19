@@ -517,11 +517,11 @@ class FreeplayState2 extends MusicBeatState
 			determinacionText.visible = true;
 
 		//kirby
-		if (curSelected == 4)
+		if (curSelected == 3)
 			rap_kirbyText.visible = true;
 
-		//otomatoe
-		if (curSelected == 5)
+		//otomatone
+		if (curSelected == 4)
 			otomatone_Vs_StylophoneText.visible = true;
 
 		//fin xd

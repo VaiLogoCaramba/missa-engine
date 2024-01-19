@@ -2,18 +2,18 @@
 <TextureAtlas imagePath="LogoCredits.png">
 	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="CreditsLogo0000" x="30" y="30" width="851" height="1138" frameX="0" frameY="-11" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0001" x="30" y="30" width="851" height="1138" frameX="0" frameY="-11" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0002" x="941" y="30" width="847" height="1140" frameX="-2" frameY="-9" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0003" x="941" y="30" width="847" height="1140" frameX="-2" frameY="-9" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0004" x="1848" y="30" width="839" height="1146" frameX="-6" frameY="-3" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0005" x="1848" y="30" width="839" height="1146" frameX="-6" frameY="-3" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0006" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0007" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0008" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0009" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0010" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0011" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0012" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
-	<SubTexture name="CreditsLogo0013" x="2747" y="30" width="837" height="1149" frameX="-7" frameY="0" frameWidth="851" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0000" x="30" y="30" width="847" height="1138" frameX="0" frameY="-11" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0001" x="30" y="30" width="847" height="1138" frameX="0" frameY="-11" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0002" x="937" y="30" width="844" height="1140" frameX="-1" frameY="-9" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0003" x="937" y="30" width="844" height="1140" frameX="-1" frameY="-9" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0004" x="1841" y="30" width="838" height="1146" frameX="-3" frameY="-3" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0005" x="1841" y="30" width="838" height="1146" frameX="-3" frameY="-3" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0006" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0007" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0008" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0009" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0010" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0011" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0012" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
+	<SubTexture name="CreditsLogo0013" x="2739" y="30" width="837" height="1149" frameX="-3" frameY="0" frameWidth="847" frameHeight="1149"/>
 </TextureAtlas>
